@@ -1,0 +1,29 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+~$*
+
+# Arquivos de credenciais
+*.key
+*.pem
+*.env
+credentials.json
+
+# Logs
+*.log
+
+# Arquivos potencialmente grandes
+# Descomente se necessário
+# *.pbix
+
+# Arquivos específicos de IDEs
+.vscode/
+.idea/
+
+# Arquivos pessoais que podem conter dados sensíveis
+*_personal.*
+*_private.*
