@@ -1,53 +1,66 @@
-# Sistema de Helpdesk Simplificado com AppSheet e Power BI
+# Sistema de Helpdesk com AppSheet, Power BI e Looker Studio (Demonstração)
 
-Este repositório documenta a criação de um sistema funcional de suporte técnico (helpdesk) como um projeto de portfólio. O objetivo foi explorar ferramentas No-Code/Low-Code e de Business Intelligence para construir uma solução completa, desde o registro do chamado até a análise de dados, utilizando recursos gratuitos ou de free tier.
+Este repositório documenta a criação de um sistema funcional de suporte técnico (helpdesk) como projeto de portfólio pessoal. O objetivo foi construir uma solução end-to-end, desde o registro do chamado até a análise de dados, explorando e comparando ferramentas No-Code/Low-Code (Google AppSheet) e de Business Intelligence (Microsoft Power BI, Google Looker Studio) utilizando exclusivamente recursos gratuitos (free tier).
 
-**Nota:** A intenção inicial era comparar implementações em múltiplas plataformas (incluindo Power Apps e Looker Studio), porém, devido a barreiras encontradas (detalhadas na seção de Aprendizados), o foco foi consolidado nas ferramentas Google AppSheet e Microsoft Power BI.
+## 💡 Motivação e Contexto
 
+Com mais de 6 anos de experiência em suporte técnico e service desk, frequentemente me deparei com a ausência de ferramentas adequadas para registro e acompanhamento de chamados, recorrendo a planilhas precárias. Tendo tido contato prévio com a Power Platform em ambiente corporativo, surgiu a ideia de replicar e aprimorar uma solução de helpdesk utilizando ferramentas acessíveis gratuitamente, documentando todo o processo como um estudo de caso prático e item de portfólio.
 
 ## 📊 Visão Geral da Solução Implementada
 
-O projeto consiste em duas partes principais, utilizando um conjunto de dados fictícios (~1000 chamados) gerado via ChatGPT e armazenado no Google Sheets:
+Utilizando um conjunto de dados fictícios (~1000 chamados) gerado via ChatGPT e armazenado centralmente no Google Sheets, a solução integrada consiste em:
 
 1.  **Aplicativo de Registro e Gestão (Google AppSheet):**
-    *   Permite registrar novos chamados de suporte.
-    *   Visualiza chamados existentes (lista e detalhes).
-    *   Implementa ações rápidas para atualizar o status dos chamados (ex: Iniciar Atendimento, Resolver).
-    *   Geração automática de ID sequencial para novos chamados.
-2.  **Dashboard Analítico (Microsoft Power BI):**
-    *   Conecta-se diretamente ao Google Sheets.
-    *   Apresenta métricas chave (KPIs) como total de tickets, tickets em aberto.
-    *   Visualiza a distribuição de chamados por status, técnico, categoria e departamento.
-    *   Mostra a tendência de abertura de chamados ao longo do tempo.
+    *   Interface para criação e edição de chamados.
+    *   Visualização de lista e detalhes dos tickets.
+    *   Ações rápidas para mudança de status (`Iniciar Atendimento`, `Resolver Chamado`).
+    *   Geração automática de ID numérico sequencial.
+    *   Acessível via Web e Mobile.
+2.  **Dashboard Analítico Interativo (Google Looker Studio):**
+    *   Conectado diretamente ao **Google Sheets** como fonte de dados.
+    *   **Página 1: App Incorporado:** O próprio AppSheet funcional embarcado para registro/consulta direta.
+    *   **Página 2: Dashboard Principal:** KPIs (Total, Abertos), gráficos de distribuição (Status, Técnico, Categoria, Departamento) e análise temporal (Tickets por Mês).
+    *   **Página 3: Tabela Detalhada:** Visão tabular completa para consulta e ordenação.
+    *   **Acesso Público:** Compartilhado via link direto (ver seção de demonstração).
+3.  **Dashboard Analítico Alternativo (Microsoft Power BI):**
+    *   Conectado ao mesmo **Google Sheets**.
+    *   Oferece uma visão similar de KPIs e gráficos, demonstrando a implementação na plataforma Microsoft.
+    *   **Acesso Limitado:** Devido às restrições de publicação gratuita do Power BI para contas pessoais, a demonstração é feita via GIF (ver seção abaixo).
 
+## 🛠️ Tecnologias Utilizadas
 
-## 🛠️ Tecnologias Utilizadas:
+*   **Aplicação:** Google AppSheet (Free Plan)
+*   **Base de Dados:** Google Sheets (Free Personal Account)
+*   **Dashboarding Principal:** Google Looker Studio (Free)
+*   **Dashboarding Alternativo:** Microsoft Power BI Desktop (Free)
+*   **Geração de Dados:** ChatGPT (GPT-3.5/4)
+*   **Formato Inicial de Dados:** CSV
+*   **Versionamento e Documentação:** Git / GitHub
 
-*   **Frontend/App:** Google AppSheet (Plano Gratuito)
-*   **Backend/Base de Dados:** Google Sheets (Conta Pessoal Gratuita)
-*   **Dashboarding:** Microsoft Power BI Desktop (Gratuito)
-*   **Geração de Dados Iniciais:** ChatGPT (Modelo GPT-3.5/4)
-*   **Formato de Dados Intermediário:** CSV (para importação inicial)
-*   **Controle de Versão/Documentação:** Git / GitHub
-  
+## 🎥 Demonstração Visual e Acesso
 
-## 🎥 Demonstração Visual (GIFs)
+**1. Dashboard Interativo e App Integrado (Looker Studio):**
 
-Como a publicação online gratuita das ferramentas possui limitações (especialmente Power BI para contas pessoais), a funcionalidade é demonstrada através dos GIFs abaixo:
+*   **[➡️ ACESSE O DASHBOARD INTERATIVO AQUI](https://lookerstudio.google.com/reporting/c340fd51-9fcb-43f5-a33f-b6fbe084a9e3/page/p_yc0rmrgerd)**
+*   **Prévia (GIF):**
+    ![Looker Studio Demo GIF](looker-studio/screenshots/Looker_HelpDesk_APP_Desktop_Web.gif)
 
-**1. Fluxo no App (Google AppSheet):**
+**2. Fluxo no App Individual (Google AppSheet):**
 
-*   **Navegação e Criação de Chamado (Desktop/Web):**
-    `![AppSheet Demo - Desktop](link_para_seu_gif_appsheet_desktop.gif)`
-*   **Navegação e Ações (Mobile):**
-    `![AppSheet Demo - Mobile](link_para_seu_gif_appsheet_mobile.gif)`
+*   **Link Direto:** [Acessar AppSheet Diretamente](https://www.appsheet.com/start/1817d2fc-aa88-4a06-9089-b5bafb7664b3)
+*   **Demonstração (GIFs):**
+    *   Navegação e Criação (Desktop):
+        ![AppSheet Demo - Desktop](google-appsheet/screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)
 
-**2. Interação com o Dashboard (Power BI):**
+    *   Navegação e Ações (Mobile):
+    *   ![AppSheet Demo - Mobile](google-appsheet/screenshots/APPSheet_HelpDesk_APP_Mobile.gif)
 
-*   **Visão Geral e Filtros:**
-    `![Power BI Demo](link_para_seu_gif_powerbi.gif)`
+**3. Interação com o Dashboard Alternativo (Power BI):**
 
-    
+*   **(Sem link público viável para conta pessoal gratuita)**
+*   **Demonstração (GIF):**
+    ![Power BI Demo GIF](power-bi/screenshots/Dashboard_HelpDesk.gif)
+
 ## 📂 Estrutura do Repositório
 
 - **/data**: Contém os dados brutos e processados
@@ -55,38 +68,46 @@ Como a publicação online gratuita das ferramentas possui limitações (especia
 - **/looker-studio**: Implementação em Looker Studio com documentação
 - **/google-appsheet**: Implementação em Google AppSheet com documentação
 
+*(Nota: Uma pasta `/power-apps` pode existir contendo notas sobre a exploração inicial, mas não faz parte da solução final implementada).*
+
 ## 📝 Documentação Detalhada
 
-**A documentação passo-a-passo, incluindo configurações chave, fórmulas utilizadas (como a de ID sequencial no AppSheet) e screenshots do processo de desenvolvimento, encontra-se nos arquivos README.md dentro das respectivas pastas:**
+**O processo passo-a-passo, configurações chave, fórmulas (ID sequencial, filtros), desafios e screenshots encontram-se nos READMEs específicos de cada ferramenta:**
 
-*   **`/google-appsheet/README.md`**
-*   **`/power-bi/README.md`**
+*   **➡️ [`/google-appsheet/README.md`](/google-appsheet/README.md)**
+*   **➡️ [`/google-looker-studio/README.md`](/google-looker-studio/README.md)**
+*   **➡️ [`/power-bi/README.md`](/power-bi/README.md)**
 
-## 📊 Comparação entre Plataformas
 
-| Plataforma | Prós | Contras | Melhor para |
-|------------|------|---------|-------------|
-| Power BI | [a ser preenchido] | [a ser preenchido] | [a ser preenchido] |
-| Looker Studio | [a ser preenchido] | [a ser preenchido] | [a ser preenchido] |
-| Google AppSheet | [a ser preenchido] | [a ser preenchido] | [a ser preenchido] |
+## 📊 Comparação Rápida das Ferramentas (Neste Contexto)
+
+| Ferramenta      | Prós                                                                                                | Contras                                                                                                | Ideal Para (Neste Projeto)                                                                 |
+| :-------------- | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+| **Google AppSheet** | ✓ Criação de App CRUD extremamente rápida ✓ Integração nativa com Google Sheets ✓ Lógica No-Code funcional (ID auto, actions) ✓ Plano gratuito generoso para uso básico | ✗ Opções de UI/UX limitadas (visual padrão) ✗ Lógicas muito complexas podem exigir workarounds        | Criação rápida de apps internos/simples, prototipagem, CRUDs baseados em planilhas.        |
+| **Google Looker Studio** | ✓ Interface intuitiva ✓ Conexão fácil com Google Sheets ✓ **Compartilhamento público/link fácil e gratuito** ✓ Boa variedade de gráficos ✓ **Permite incorporar URLs (AppSheet!)** | ✗ Menos poder em ETL/modelagem de dados vs Power Query ✗ DAX inexistente (cálculos mais simples)  | Dashboards rápidos, visualização de dados do ecossistema Google, compartilhamento fácil. |
+| **Microsoft Power BI** | ✓ Power Query robusto para ETL ✓ DAX para cálculos complexos ✓ Vasta gama de visuais e customização ✓ Padrão em muitas empresas (skill valorizada) | ✗ **Restrições SEVERAS no compartilhamento gratuito para contas pessoais** ✗ Curva de aprendizado maior para DAX/PQ | Análises complexas, modelagem de dados avançada, ambientes corporativos Microsoft.        |
 
 ## 🔄 Processo de Desenvolvimento (Resumo da Jornada Real)
 
-1.  **Definição do Escopo e Geração de Dados:** Planejamento inicial do sistema de helpdesk e criação da base de dados fictícia em CSV via ChatGPT.
-2.  **Configuração da Base:** Importação dos dados para o Google Sheets.
-3.  **Tentativa com Power Apps:** Exploração inicial da plataforma e encontro da barreira de licenciamento/conta gratuita para o caso de uso. **Decisão de pivotar.**
-4.  **Desenvolvimento do App:** Criação e configuração completa do aplicativo no Google AppSheet (conexão, views, formulário, colunas virtuais, ID automático, actions).
-5.  **Desenvolvimento do Dashboard:** Conexão do Power BI Desktop ao Google Sheets, criação dos visuais (gráficos, KPIs) e formatação básica.
-6.  **Criação da Demonstração:** Geração de GIFs para ilustrar o uso do App e a interatividade do Dashboard.
-7.  **Documentação:** Criação e detalhamento da estrutura do repositório e dos arquivos README.
+1.  **Idealização & Dados:** Definição do escopo baseado em experiência prévia e geração de dados fictícios (CSV) via ChatGPT.
+2.  **Base de Dados:** Configuração do Google Sheets como repositório central.
+3.  **Obstáculo Inicial:** Tentativa de uso do Power Apps barrada por limitações de conta/licença gratuita. **Decisão de pivotar.**
+4.  **App Development (AppSheet):** Criação rápida e configuração do aplicativo CRUD funcional.
+5.  **Dashboarding v1 (Power BI):** Conexão ao Sheets, criação de visuais e KPIs. Constatação da dificuldade de compartilhamento gratuito.
+6.  **Dashboarding v2 & Integração (Looker Studio):** Conexão ao Sheets, replicação/melhoria dos visuais, criação das 3 páginas (App embedado, Dashboard, Tabela). Configuração do compartilhamento público via link.
+7.  **Demonstração:** Criação de GIFs para Power BI e AppSheet; obtenção do link público para Looker Studio.
+8.  **Documentação:** Estruturação do repositório e detalhamento dos READMEs (em andamento).
+
 ## 📚 Aprendizados e Reflexões
 
-*   **A Realidade dos Free Tiers:** O principal obstáculo foi a limitação inesperada no acesso ao ambiente de desenvolvimento do Power Apps com contas pessoais/gratuitas não vinculadas a organizações ou estudantes. Isso reforça a importância de verificar *cuidadosamente* as limitações de licenciamento e uso gratuito antes de se comprometer totalmente com uma ferramenta.
-*   **Agilidade do Google AppSheet:** Para criar um CRUD (Create, Read, Update, Delete) funcional e com lógicas básicas (como o ID sequencial e as actions de status) conectado ao Google Sheets, o AppSheet se mostrou extremamente rápido e eficiente, exigindo pouca ou nenhuma codificação tradicional. Ideal para prototipagem rápida ou apps internos simples.
-*   **Poder vs. Complexidade (Power BI):** O Power BI Desktop oferece uma gama vasta de opções de visualização e análise, mesmo na versão gratuita. A conexão com o Google Sheets foi direta. A curva de aprendizado para gráficos básicos é suave, mas explorar todo o potencial (DAX, Power Query avançado) exige mais dedicação. A limitação na publicação gratuita para contas pessoais é um ponto negativo significativo para portfólios.
-*   **Adaptação é Chave:** A necessidade de abandonar a implementação planejada do Power Apps e focar no AppSheet demonstrou a importância de ser flexível e encontrar soluções alternativas diante de imprevistos técnicos ou de licenciamento.
-
+*   **Licenciamento Free Tier é Crucial:** A experiência com Power Apps foi um lembrete duro: sempre valide as limitações *reais* (especialmente de compartilhamento e conectores) dos planos gratuitos antes de investir tempo.
+*   **Ecossistema Google para Prototipagem Rápida:** A combinação Sheets + AppSheet + Looker Studio oferece um caminho de baixíssimo atrito e custo zero para criar e compartilhar soluções de dados funcionais rapidamente.
+*   **Looker Studio Surpreende:** Apesar de talvez menos "poderoso" em ETL/cálculos que o Power BI, sua facilidade de uso, integração com o G-Suite e, principalmente, o **compartilhamento descomplicado** o tornam uma excelente opção para projetos pessoais e portfólios. A capacidade de incorporar URLs é um bônus inesperado e útil.
+*   **Power BI: Potencial x Acesso:** Continua sendo uma ferramenta incrível, especialmente com Power Query e DAX, mas suas barreiras de compartilhamento no nível gratuito o tornam menos ideal para demonstrações públicas individuais.
+*   **Adaptabilidade > Plano Original:** Ser capaz de mudar de rota (Power Apps -> AppSheet/Looker) e ainda entregar um resultado robusto (até melhorado, com o app embedado) é uma habilidade essencial.
 
 ## 📞 Contato
 
-[Seus dados de contato]
+**Gabriel Arten Conde**
+*   **LinkedIn:** https://www.linkedin.com/in/gabriel-arten-conde/
+*   **Email:** gabriel_x5@hotmail.com
