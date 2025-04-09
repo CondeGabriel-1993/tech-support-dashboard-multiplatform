@@ -1,0 +1,1001 @@
+IDChamado;DataAbertura;Solicitante;Departamento;Categoria;DescricaoCurta;Urgencia;Status;TecnicoResponsavel;DataFechamento
+HD-001;02/03/2025 14:04;Carlos Silva;RH;Backup;Problema com impressão;Alta;Aberto;Guilherme;
+HD-002;23/10/2024 16:14;Carlos Silva;Jurídico;Backup;Erro ao abrir planilha;Média;Aberto;Paulo;
+HD-003;10/11/2024 14:30;Ana Paula;Financeiro;Acesso ao sistema;Problema com impressão;Média;Em andamento;Paulo;
+HD-004;12/10/2024 15:15;Mariana Dias;Logística;Solicitação de software;Conexão com servidor instável;Baixa;Pendente;Guilherme;
+HD-005;03/01/2025 11:29;Bruno Alves;Financeiro;Problemas de rede;Problema com impressão;Média;Resolvido;Guilherme;05/01/2025 09:29
+HD-006;05/03/2025 14:45;Fernando Lima;Logística;Problemas de rede;Solicitação de instalação do Office;Baixa;Em andamento;Paulo;
+HD-007;23/03/2025 14:10;João Mendes;Comercial;Falha em equipamento;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;23/03/2025 18:02
+HD-008;02/04/2025 11:25;João Mendes;Comercial;Problemas de rede;Usuário não consegue acessar o sistema;Média;Aberto;Gabriel;
+HD-009;20/12/2024 10:06;Juliana Castro;Jurídico;Problemas de rede;Erro ao abrir planilha;Alta;Resolvido;Gabriel;23/12/2024 09:06
+HD-010;23/12/2024 08:59;Mariana Dias;Operações;Solicitação de software;Troca de senha solicitada;Baixa;Em andamento;Gabriel;
+HD-011;30/03/2025 09:33;Carlos Silva;Logística;Erro em sistema;Usuário não consegue acessar o sistema;Alta;Fechado;Paulo;01/04/2025 08:55
+HD-012;19/10/2024 09:02;João Mendes;Comercial;Backup;Erro ao abrir planilha;Alta;Resolvido;Paulo;19/10/2024 18:02
+HD-013;07/11/2024 16:03;Luciana Rocha;Comercial;Troca de senha;Troca de senha solicitada;Média;Pendente;Gabriel;
+HD-014;12/11/2024 15:51;Ana Paula;Logística;Problemas de rede;Erro ao abrir planilha;Alta;Pendente;Gabriel;
+HD-015;09/12/2024 10:13;Fernando Lima;Financeiro;Falha em equipamento;Troca de senha solicitada;Alta;Aberto;Guilherme;
+HD-016;03/03/2025 13:27;Carlos Silva;Comercial;Problemas de rede;Troca de senha solicitada;Crítica;Fechado;Guilherme;05/03/2025 18:27
+HD-017;21/02/2025 12:32;Ana Paula;Financeiro;Solicitação de software;Troca de senha solicitada;Média;Resolvido;Gabriel;23/02/2025 08:32
+HD-018;11/11/2024 11:44;Juliana Castro;Logística;Troca de senha;Troca de senha solicitada;Baixa;Em andamento;Gabriel;
+HD-019;21/02/2025 11:01;Juliana Castro;Financeiro;Acesso ao sistema;Problema com impressão;Crítica;Resolvido;Gabriel;24/02/2025 08:37
+HD-020;04/12/2024 13:52;Luciana Rocha;Jurídico;Erro em sistema;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-021;07/11/2024 08:17;Ana Paula;Operações;Solicitação de software;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-022;04/04/2025 13:33;Juliana Castro;Comercial;Falha em equipamento;Solicitação de instalação do Office;Crítica;Em andamento;Guilherme;
+HD-023;11/10/2024 08:04;João Mendes;TI;Troca de senha;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;11/10/2024 18:06
+HD-024;07/03/2025 11:53;Fernando Lima;Marketing;Backup;Problema com impressão;Baixa;Resolvido;Gabriel;07/03/2025 12:53
+HD-025;05/11/2024 08:52;Mariana Dias;Logística;Erro em sistema;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-026;20/12/2024 16:45;Fernando Lima;TI;Erro em sistema;Conexão com servidor instável;Baixa;Aberto;Guilherme;
+HD-027;04/02/2025 09:57;Juliana Castro;Logística;Backup;Conexão com servidor instável;Crítica;Aberto;Paulo;
+HD-028;02/01/2025 11:39;Mariana Dias;TI;Backup;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-029;02/11/2024 16:17;Luciana Rocha;Comercial;Falha em equipamento;Usuário não consegue acessar o sistema;Média;Aberto;Gabriel;
+HD-030;31/12/2024 15:03;Mariana Dias;Logística;Acesso ao sistema;Troca de senha solicitada;Média;Em andamento;Gabriel;
+HD-031;21/01/2025 11:31;Luciana Rocha;Marketing;Erro em sistema;Erro ao abrir planilha;Alta;Fechado;Gabriel;22/01/2025 13:31
+HD-032;17/12/2024 09:15;Mariana Dias;Marketing;Backup;Problema com impressão;Média;Em andamento;Guilherme;
+HD-033;02/03/2025 12:17;Juliana Castro;Logística;Falha em equipamento;Erro ao abrir planilha;Alta;Em andamento;Gabriel;
+HD-034;03/12/2024 11:14;Luciana Rocha;Comercial;Solicitação de software;Conexão com servidor instável;Média;Aberto;Paulo;
+HD-035;13/11/2024 13:25;Bruno Alves;Financeiro;Falha em equipamento;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;14/11/2024 08:02
+HD-036;18/01/2025 14:15;Luciana Rocha;Operações;Backup;Conexão com servidor instável;Baixa;Em andamento;Paulo;
+HD-037;19/01/2025 16:07;Mariana Dias;Marketing;Falha em equipamento;Troca de senha solicitada;Média;Pendente;Gabriel;
+HD-038;13/10/2024 14:43;Juliana Castro;Operações;Troca de senha;Erro ao abrir planilha;Alta;Fechado;Gabriel;14/10/2024 18:26
+HD-039;06/11/2024 08:40;João Mendes;Jurídico;Troca de senha;Problema com impressão;Crítica;Aberto;Gabriel;
+HD-040;01/01/2025 12:26;Luciana Rocha;TI;Falha em equipamento;Problema com impressão;Média;Pendente;Gabriel;
+HD-041;12/03/2025 14:42;Mariana Dias;Financeiro;Problemas de rede;Troca de senha solicitada;Crítica;Pendente;Guilherme;
+HD-042;18/02/2025 11:11;Luciana Rocha;TI;Solicitação de software;Troca de senha solicitada;Baixa;Resolvido;Gabriel;18/02/2025 18:55
+HD-043;17/02/2025 08:58;Juliana Castro;Jurídico;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Pendente;Paulo;
+HD-044;29/11/2024 09:15;João Mendes;Logística;Backup;Troca de senha solicitada;Crítica;Fechado;Gabriel;29/11/2024 15:15
+HD-045;30/01/2025 09:38;Juliana Castro;RH;Erro em sistema;Erro ao abrir planilha;Alta;Aberto;Paulo;
+HD-046;09/02/2025 16:20;Bruno Alves;Marketing;Troca de senha;Problema com impressão;Crítica;Aberto;Gabriel;
+HD-047;01/11/2024 12:33;Carlos Silva;TI;Problemas de rede;Problema com impressão;Crítica;Aberto;Gabriel;
+HD-048;17/03/2025 13:57;Luciana Rocha;TI;Backup;Problema com impressão;Baixa;Fechado;Gabriel;19/03/2025 08:30
+HD-049;28/12/2024 10:20;Luciana Rocha;Comercial;Acesso ao sistema;Erro ao abrir planilha;Crítica;Fechado;Gabriel;30/12/2024 08:30
+HD-050;09/11/2024 11:59;Luciana Rocha;Comercial;Acesso ao sistema;Problema com impressão;Alta;Em andamento;Gabriel;
+HD-051;28/10/2024 11:52;Ana Paula;Financeiro;Erro em sistema;Solicitação de instalação do Office;Baixa;Resolvido;Gabriel;30/10/2024 18:36
+HD-052;23/11/2024 14:45;Fernando Lima;RH;Troca de senha;Troca de senha solicitada;Média;Pendente;Guilherme;
+HD-053;24/03/2025 09:38;Carlos Silva;TI;Backup;Troca de senha solicitada;Média;Fechado;Guilherme;24/03/2025 18:02
+HD-054;21/03/2025 14:57;Bruno Alves;Logística;Solicitação de software;Solicitação de instalação do Office;Crítica;Aberto;Guilherme;
+HD-055;31/03/2025 15:01;Bruno Alves;Operações;Solicitação de software;Erro ao abrir planilha;Crítica;Pendente;Gabriel;
+HD-056;21/12/2024 13:15;João Mendes;RH;Solicitação de software;Problema com impressão;Alta;Fechado;Gabriel;24/12/2024 10:15
+HD-057;04/04/2025 12:56;Juliana Castro;Operações;Acesso ao sistema;Erro ao abrir planilha;Baixa;Resolvido;Guilherme;06/04/2025 13:56
+HD-058;21/10/2024 10:46;João Mendes;Financeiro;Acesso ao sistema;Erro ao abrir planilha;Média;Fechado;Guilherme;24/10/2024 08:26
+HD-059;01/01/2025 15:31;João Mendes;Operações;Backup;Conexão com servidor instável;Alta;Pendente;Gabriel;
+HD-060;02/02/2025 14:51;João Mendes;Jurídico;Problemas de rede;Troca de senha solicitada;Alta;Fechado;Guilherme;05/02/2025 08:39
+HD-061;15/10/2024 14:32;Ana Paula;Marketing;Backup;Usuário não consegue acessar o sistema;Média;Fechado;Guilherme;16/10/2024 08:22
+HD-062;03/12/2024 13:41;João Mendes;Marketing;Erro em sistema;Problema com impressão;Média;Fechado;Guilherme;05/12/2024 08:08
+HD-063;02/01/2025 12:17;Luciana Rocha;Jurídico;Backup;Troca de senha solicitada;Crítica;Pendente;Gabriel;
+HD-064;07/01/2025 08:30;Bruno Alves;Financeiro;Troca de senha;Conexão com servidor instável;Alta;Aberto;Guilherme;
+HD-065;13/11/2024 08:36;Luciana Rocha;Logística;Backup;Erro ao abrir planilha;Alta;Fechado;Paulo;14/11/2024 18:36
+HD-066;03/04/2025 15:32;Ana Paula;Financeiro;Troca de senha;Usuário não consegue acessar o sistema;Média;Fechado;Gabriel;06/04/2025 08:32
+HD-067;10/01/2025 13:16;Luciana Rocha;Jurídico;Acesso ao sistema;Conexão com servidor instável;Alta;Resolvido;Gabriel;12/01/2025 08:42
+HD-068;19/03/2025 16:59;João Mendes;Marketing;Erro em sistema;Usuário não consegue acessar o sistema;Crítica;Em andamento;Gabriel;
+HD-069;01/03/2025 09:15;Ana Paula;Jurídico;Problemas de rede;Erro ao abrir planilha;Alta;Em andamento;Gabriel;
+HD-070;09/01/2025 13:37;Luciana Rocha;TI;Backup;Troca de senha solicitada;Média;Em andamento;Guilherme;
+HD-071;21/11/2024 14:00;Bruno Alves;Operações;Problemas de rede;Problema com impressão;Baixa;Pendente;Gabriel;
+HD-072;12/11/2024 14:40;João Mendes;Comercial;Troca de senha;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-073;14/11/2024 15:09;Luciana Rocha;Comercial;Solicitação de software;Erro ao abrir planilha;Baixa;Resolvido;Gabriel;17/11/2024 10:09
+HD-074;23/03/2025 14:45;Ana Paula;Jurídico;Backup;Erro ao abrir planilha;Crítica;Fechado;Gabriel;25/03/2025 11:45
+HD-075;13/01/2025 11:41;Mariana Dias;Jurídico;Troca de senha;Troca de senha solicitada;Baixa;Pendente;Guilherme;
+HD-076;29/10/2024 08:59;Carlos Silva;Jurídico;Backup;Troca de senha solicitada;Alta;Pendente;Guilherme;
+HD-077;21/01/2025 16:52;Luciana Rocha;Financeiro;Problemas de rede;Solicitação de instalação do Office;Média;Pendente;Guilherme;
+HD-078;26/03/2025 10:11;Ana Paula;Marketing;Problemas de rede;Erro ao abrir planilha;Baixa;Resolvido;Guilherme;28/03/2025 12:11
+HD-079;22/03/2025 13:50;Ana Paula;Marketing;Erro em sistema;Conexão com servidor instável;Média;Pendente;Paulo;
+HD-080;24/10/2024 08:41;Bruno Alves;Marketing;Acesso ao sistema;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-081;12/11/2024 13:42;João Mendes;Financeiro;Falha em equipamento;Erro ao abrir planilha;Baixa;Em andamento;Gabriel;
+HD-082;01/03/2025 15:37;Bruno Alves;Operações;Solicitação de software;Troca de senha solicitada;Baixa;Fechado;Guilherme;03/03/2025 08:35
+HD-083;19/12/2024 16:16;Juliana Castro;Jurídico;Solicitação de software;Solicitação de instalação do Office;Média;Pendente;Guilherme;
+HD-084;04/11/2024 10:37;Carlos Silva;Marketing;Falha em equipamento;Conexão com servidor instável;Alta;Em andamento;Gabriel;
+HD-085;15/03/2025 09:59;Luciana Rocha;Logística;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Aberto;Gabriel;
+HD-086;01/03/2025 11:59;João Mendes;Logística;Acesso ao sistema;Conexão com servidor instável;Crítica;Pendente;Gabriel;
+HD-087;14/01/2025 09:41;Fernando Lima;Financeiro;Problemas de rede;Usuário não consegue acessar o sistema;Média;Aberto;Gabriel;
+HD-088;04/01/2025 10:07;Luciana Rocha;TI;Acesso ao sistema;Problema com impressão;Crítica;Em andamento;Gabriel;
+HD-089;01/01/2025 12:19;Luciana Rocha;RH;Solicitação de software;Conexão com servidor instável;Crítica;Aberto;Guilherme;
+HD-090;19/03/2025 11:47;Bruno Alves;Logística;Problemas de rede;Problema com impressão;Alta;Fechado;Guilherme;20/03/2025 08:47
+HD-091;06/11/2024 14:06;João Mendes;Marketing;Erro em sistema;Conexão com servidor instável;Crítica;Fechado;Guilherme;07/11/2024 08:36
+HD-092;27/11/2024 15:18;Ana Paula;RH;Erro em sistema;Erro ao abrir planilha;Crítica;Fechado;Gabriel;29/11/2024 18:23
+HD-093;15/11/2024 13:58;Fernando Lima;Marketing;Solicitação de software;Usuário não consegue acessar o sistema;Crítica;Aberto;Gabriel;
+HD-094;14/10/2024 08:16;Juliana Castro;RH;Backup;Problema com impressão;Baixa;Resolvido;Gabriel;15/10/2024 15:16
+HD-095;29/03/2025 16:14;Fernando Lima;Logística;Falha em equipamento;Conexão com servidor instável;Baixa;Resolvido;Paulo;30/03/2025 15:14
+HD-096;24/12/2024 11:22;Carlos Silva;Comercial;Backup;Conexão com servidor instável;Crítica;Fechado;Paulo;24/12/2024 14:22
+HD-097;09/10/2024 09:00;Fernando Lima;Marketing;Backup;Problema com impressão;Média;Pendente;Gabriel;
+HD-098;25/10/2024 09:06;João Mendes;RH;Acesso ao sistema;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-099;24/01/2025 08:41;Bruno Alves;Operações;Backup;Problema com impressão;Baixa;Resolvido;Gabriel;25/01/2025 18:42
+HD-100;01/01/2025 10:51;Luciana Rocha;Jurídico;Backup;Usuário não consegue acessar o sistema;Baixa;Aberto;Guilherme;
+HD-101;05/01/2025 16:58;Bruno Alves;Comercial;Backup;Usuário não consegue acessar o sistema;Baixa;Pendente;Paulo;
+HD-102;14/10/2024 11:33;Juliana Castro;Comercial;Erro em sistema;Erro ao abrir planilha;Crítica;Pendente;Gabriel;
+HD-103;30/01/2025 09:48;Mariana Dias;Financeiro;Falha em equipamento;Troca de senha solicitada;Crítica;Em andamento;Gabriel;
+HD-104;14/11/2024 10:05;João Mendes;Financeiro;Backup;Usuário não consegue acessar o sistema;Média;Aberto;Gabriel;
+HD-105;19/12/2024 14:47;Carlos Silva;Operações;Problemas de rede;Usuário não consegue acessar o sistema;Crítica;Em andamento;Gabriel;
+HD-106;03/02/2025 09:00;Carlos Silva;Operações;Troca de senha;Problema com impressão;Baixa;Resolvido;Gabriel;05/02/2025 18:03
+HD-107;29/12/2024 11:47;Ana Paula;Financeiro;Troca de senha;Conexão com servidor instável;Baixa;Aberto;Gabriel;
+HD-108;26/10/2024 11:48;Carlos Silva;Marketing;Troca de senha;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-109;03/11/2024 16:04;João Mendes;Financeiro;Troca de senha;Troca de senha solicitada;Média;Fechado;Gabriel;04/11/2024 13:04
+HD-110;04/03/2025 10:10;Mariana Dias;Logística;Acesso ao sistema;Problema com impressão;Alta;Resolvido;Gabriel;06/03/2025 17:10
+HD-111;13/03/2025 09:40;Juliana Castro;TI;Troca de senha;Conexão com servidor instável;Baixa;Em andamento;Gabriel;
+HD-112;10/12/2024 11:13;Fernando Lima;Jurídico;Falha em equipamento;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-113;24/02/2025 16:21;Fernando Lima;TI;Backup;Troca de senha solicitada;Média;Em andamento;Paulo;
+HD-114;15/11/2024 08:26;Carlos Silva;RH;Falha em equipamento;Troca de senha solicitada;Alta;Aberto;Guilherme;
+HD-115;29/01/2025 09:55;Juliana Castro;TI;Troca de senha;Problema com impressão;Alta;Em andamento;Guilherme;
+HD-116;10/11/2024 14:21;Fernando Lima;Marketing;Troca de senha;Problema com impressão;Alta;Em andamento;Gabriel;
+HD-117;08/01/2025 15:09;Juliana Castro;Financeiro;Troca de senha;Solicitação de instalação do Office;Crítica;Fechado;Guilherme;10/01/2025 17:09
+HD-118;26/02/2025 15:05;João Mendes;Marketing;Problemas de rede;Troca de senha solicitada;Crítica;Pendente;Gabriel;
+HD-119;19/02/2025 08:57;Luciana Rocha;Comercial;Problemas de rede;Troca de senha solicitada;Crítica;Fechado;Guilherme;20/02/2025 08:16
+HD-120;13/02/2025 10:29;Mariana Dias;Marketing;Falha em equipamento;Erro ao abrir planilha;Baixa;Resolvido;Gabriel;15/02/2025 18:10
+HD-121;05/01/2025 08:32;Juliana Castro;Logística;Falha em equipamento;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-122;15/02/2025 09:49;João Mendes;Jurídico;Troca de senha;Erro ao abrir planilha;Alta;Resolvido;Gabriel;15/02/2025 17:49
+HD-123;16/10/2024 13:07;Carlos Silva;Jurídico;Acesso ao sistema;Conexão com servidor instável;Crítica;Fechado;Gabriel;17/10/2024 15:07
+HD-124;26/01/2025 09:07;Luciana Rocha;Financeiro;Problemas de rede;Troca de senha solicitada;Média;Resolvido;Guilherme;26/01/2025 18:47
+HD-125;23/10/2024 13:20;João Mendes;Comercial;Problemas de rede;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;25/10/2024 08:12
+HD-126;25/11/2024 13:00;João Mendes;Comercial;Solicitação de software;Problema com impressão;Crítica;Resolvido;Gabriel;27/11/2024 08:00
+HD-127;03/11/2024 13:01;Ana Paula;TI;Erro em sistema;Usuário não consegue acessar o sistema;Crítica;Fechado;Gabriel;04/11/2024 17:01
+HD-128;06/02/2025 09:27;Juliana Castro;Comercial;Problemas de rede;Conexão com servidor instável;Alta;Fechado;Guilherme;07/02/2025 08:47
+HD-129;09/02/2025 08:31;Bruno Alves;Financeiro;Erro em sistema;Conexão com servidor instável;Baixa;Em andamento;Guilherme;
+HD-130;13/02/2025 12:08;Luciana Rocha;Jurídico;Acesso ao sistema;Erro ao abrir planilha;Alta;Em andamento;Paulo;
+HD-131;15/10/2024 10:48;Luciana Rocha;Marketing;Acesso ao sistema;Conexão com servidor instável;Crítica;Fechado;Gabriel;18/10/2024 08:48
+HD-132;28/02/2025 09:47;João Mendes;Operações;Solicitação de software;Problema com impressão;Crítica;Resolvido;Gabriel;01/03/2025 08:15
+HD-133;24/01/2025 14:44;Carlos Silva;TI;Problemas de rede;Conexão com servidor instável;Baixa;Em andamento;Gabriel;
+HD-134;21/10/2024 11:08;Juliana Castro;Comercial;Troca de senha;Erro ao abrir planilha;Crítica;Resolvido;Guilherme;22/10/2024 08:08
+HD-135;07/02/2025 14:26;Luciana Rocha;Logística;Acesso ao sistema;Troca de senha solicitada;Média;Fechado;Guilherme;07/02/2025 16:26
+HD-136;11/12/2024 15:08;Fernando Lima;Logística;Solicitação de software;Erro ao abrir planilha;Crítica;Pendente;Paulo;
+HD-137;06/11/2024 12:48;Juliana Castro;Jurídico;Falha em equipamento;Erro ao abrir planilha;Crítica;Em andamento;Guilherme;
+HD-138;01/04/2025 14:52;Mariana Dias;Jurídico;Problemas de rede;Conexão com servidor instável;Alta;Fechado;Guilherme;02/04/2025 10:52
+HD-139;05/11/2024 08:03;João Mendes;Logística;Falha em equipamento;Conexão com servidor instável;Média;Resolvido;Gabriel;07/11/2024 08:54
+HD-140;24/11/2024 14:29;Fernando Lima;Jurídico;Problemas de rede;Usuário não consegue acessar o sistema;Média;Aberto;Guilherme;
+HD-141;27/03/2025 09:11;Mariana Dias;Financeiro;Falha em equipamento;Usuário não consegue acessar o sistema;Crítica;Em andamento;Guilherme;
+HD-142;10/12/2024 11:57;João Mendes;Jurídico;Troca de senha;Erro ao abrir planilha;Baixa;Em andamento;Gabriel;
+HD-143;12/12/2024 12:38;Carlos Silva;RH;Troca de senha;Troca de senha solicitada;Crítica;Em andamento;Gabriel;
+HD-144;28/02/2025 12:20;Ana Paula;Comercial;Problemas de rede;Troca de senha solicitada;Média;Aberto;Paulo;
+HD-145;26/12/2024 16:52;Bruno Alves;Operações;Erro em sistema;Problema com impressão;Alta;Fechado;Guilherme;29/12/2024 14:52
+HD-146;06/11/2024 14:05;Mariana Dias;RH;Backup;Conexão com servidor instável;Alta;Em andamento;Guilherme;
+HD-147;08/12/2024 11:01;Mariana Dias;Comercial;Backup;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-148;22/12/2024 12:05;Fernando Lima;Logística;Problemas de rede;Solicitação de instalação do Office;Média;Fechado;Gabriel;25/12/2024 08:05
+HD-149;23/01/2025 16:50;Carlos Silva;Comercial;Solicitação de software;Conexão com servidor instável;Alta;Fechado;Guilherme;24/01/2025 17:50
+HD-150;08/01/2025 13:27;Carlos Silva;Comercial;Backup;Conexão com servidor instável;Média;Pendente;Guilherme;
+HD-151;04/11/2024 13:59;Mariana Dias;Comercial;Backup;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;06/11/2024 17:59
+HD-152;22/11/2024 09:34;Fernando Lima;Financeiro;Solicitação de software;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-153;05/12/2024 13:55;Luciana Rocha;Logística;Acesso ao sistema;Solicitação de instalação do Office;Baixa;Pendente;Gabriel;
+HD-154;21/01/2025 08:45;Mariana Dias;Financeiro;Solicitação de software;Troca de senha solicitada;Média;Resolvido;Gabriel;22/01/2025 08:03
+HD-155;02/11/2024 13:29;João Mendes;Comercial;Backup;Problema com impressão;Alta;Resolvido;Guilherme;03/11/2024 15:29
+HD-156;05/04/2025 12:13;Mariana Dias;Operações;Problemas de rede;Problema com impressão;Baixa;Resolvido;Paulo;07/04/2025 08:07
+HD-157;23/01/2025 15:37;Fernando Lima;TI;Solicitação de software;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-158;28/10/2024 15:26;Ana Paula;Financeiro;Troca de senha;Troca de senha solicitada;Baixa;Em andamento;Paulo;
+HD-159;11/12/2024 16:46;João Mendes;Logística;Erro em sistema;Problema com impressão;Crítica;Fechado;Guilherme;12/12/2024 16:46
+HD-160;15/11/2024 09:33;Ana Paula;Logística;Falha em equipamento;Solicitação de instalação do Office;Alta;Fechado;Guilherme;17/11/2024 18:37
+HD-161;21/01/2025 12:16;Ana Paula;Operações;Problemas de rede;Erro ao abrir planilha;Alta;Pendente;Guilherme;
+HD-162;21/10/2024 14:13;Bruno Alves;Marketing;Problemas de rede;Erro ao abrir planilha;Alta;Fechado;Gabriel;24/10/2024 08:42
+HD-163;14/02/2025 13:03;Fernando Lima;Financeiro;Solicitação de software;Troca de senha solicitada;Média;Em andamento;Guilherme;
+HD-164;12/03/2025 16:03;Carlos Silva;Logística;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Resolvido;Guilherme;13/03/2025 15:03
+HD-165;09/11/2024 15:21;Carlos Silva;Marketing;Solicitação de software;Conexão com servidor instável;Alta;Fechado;Gabriel;10/11/2024 08:53
+HD-166;25/11/2024 14:05;Juliana Castro;Jurídico;Problemas de rede;Problema com impressão;Baixa;Pendente;Guilherme;
+HD-167;29/10/2024 15:28;Fernando Lima;Operações;Solicitação de software;Troca de senha solicitada;Baixa;Em andamento;Gabriel;
+HD-168;20/12/2024 14:30;Carlos Silva;Comercial;Erro em sistema;Troca de senha solicitada;Crítica;Em andamento;Paulo;
+HD-169;30/01/2025 15:41;Mariana Dias;Operações;Falha em equipamento;Troca de senha solicitada;Baixa;Fechado;Guilherme;01/02/2025 08:34
+HD-170;21/11/2024 11:57;Luciana Rocha;Marketing;Backup;Conexão com servidor instável;Crítica;Resolvido;Gabriel;24/11/2024 08:26
+HD-171;16/02/2025 13:01;Carlos Silva;Marketing;Solicitação de software;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-172;19/11/2024 16:29;Mariana Dias;RH;Falha em equipamento;Problema com impressão;Média;Em andamento;Paulo;
+HD-173;17/01/2025 08:39;Bruno Alves;Marketing;Erro em sistema;Problema com impressão;Crítica;Pendente;Paulo;
+HD-174;05/04/2025 13:22;Carlos Silva;Jurídico;Solicitação de software;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-175;22/10/2024 15:48;João Mendes;TI;Acesso ao sistema;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;23/10/2024 08:48
+HD-176;13/12/2024 10:04;Mariana Dias;Operações;Falha em equipamento;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-177;20/11/2024 13:01;Carlos Silva;Jurídico;Troca de senha;Problema com impressão;Crítica;Resolvido;Gabriel;21/11/2024 18:27
+HD-178;09/02/2025 11:46;João Mendes;Financeiro;Backup;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;10/02/2025 08:46
+HD-179;16/12/2024 16:48;Mariana Dias;Jurídico;Solicitação de software;Erro ao abrir planilha;Média;Resolvido;Guilherme;18/12/2024 15:48
+HD-180;02/03/2025 16:43;João Mendes;Jurídico;Troca de senha;Problema com impressão;Crítica;Aberto;Guilherme;
+HD-181;12/12/2024 14:51;Juliana Castro;Operações;Troca de senha;Troca de senha solicitada;Média;Resolvido;Guilherme;14/12/2024 18:51
+HD-182;09/01/2025 16:48;Carlos Silva;Financeiro;Acesso ao sistema;Problema com impressão;Média;Pendente;Gabriel;
+HD-183;18/03/2025 08:50;Bruno Alves;Financeiro;Falha em equipamento;Solicitação de instalação do Office;Crítica;Fechado;Gabriel;19/03/2025 08:50
+HD-184;20/11/2024 09:26;Mariana Dias;TI;Troca de senha;Troca de senha solicitada;Média;Resolvido;Gabriel;23/11/2024 08:09
+HD-185;02/04/2025 14:25;Fernando Lima;TI;Solicitação de software;Erro ao abrir planilha;Baixa;Resolvido;Paulo;03/04/2025 09:25
+HD-186;17/03/2025 12:20;Mariana Dias;Operações;Backup;Conexão com servidor instável;Crítica;Em andamento;Guilherme;
+HD-187;12/11/2024 14:37;João Mendes;Jurídico;Solicitação de software;Solicitação de instalação do Office;Crítica;Em andamento;Gabriel;
+HD-188;12/12/2024 16:02;Mariana Dias;Financeiro;Falha em equipamento;Conexão com servidor instável;Alta;Em andamento;Paulo;
+HD-189;07/02/2025 16:28;Luciana Rocha;Operações;Acesso ao sistema;Troca de senha solicitada;Média;Pendente;Guilherme;
+HD-190;02/12/2024 09:21;Mariana Dias;Jurídico;Solicitação de software;Usuário não consegue acessar o sistema;Média;Em andamento;Paulo;
+HD-191;11/10/2024 12:03;João Mendes;Financeiro;Troca de senha;Solicitação de instalação do Office;Alta;Resolvido;Paulo;12/10/2024 08:40
+HD-192;29/12/2024 11:03;Fernando Lima;Jurídico;Erro em sistema;Erro ao abrir planilha;Baixa;Em andamento;Gabriel;
+HD-193;13/12/2024 13:19;Juliana Castro;Jurídico;Falha em equipamento;Troca de senha solicitada;Alta;Fechado;Guilherme;16/12/2024 08:27
+HD-194;30/12/2024 16:33;Ana Paula;Comercial;Backup;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-195;20/01/2025 14:29;Carlos Silva;RH;Problemas de rede;Solicitação de instalação do Office;Média;Pendente;Guilherme;
+HD-196;28/11/2024 13:38;Juliana Castro;TI;Solicitação de software;Usuário não consegue acessar o sistema;Média;Em andamento;Gabriel;
+HD-197;26/02/2025 08:51;Luciana Rocha;RH;Solicitação de software;Conexão com servidor instável;Alta;Pendente;Gabriel;
+HD-198;29/01/2025 13:52;Juliana Castro;Logística;Acesso ao sistema;Solicitação de instalação do Office;Média;Resolvido;Guilherme;31/01/2025 08:41
+HD-199;01/03/2025 11:52;Fernando Lima;Comercial;Backup;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-200;26/02/2025 15:00;Carlos Silva;Marketing;Problemas de rede;Conexão com servidor instável;Média;Aberto;Guilherme;
+HD-201;17/01/2025 12:12;Mariana Dias;Jurídico;Problemas de rede;Solicitação de instalação do Office;Baixa;Fechado;Gabriel;18/01/2025 18:12
+HD-202;19/02/2025 11:16;Bruno Alves;Financeiro;Troca de senha;Erro ao abrir planilha;Alta;Fechado;Paulo;20/02/2025 08:11
+HD-203;10/10/2024 10:09;Juliana Castro;Marketing;Problemas de rede;Conexão com servidor instável;Média;Aberto;Gabriel;
+HD-204;22/01/2025 16:54;Bruno Alves;Comercial;Falha em equipamento;Troca de senha solicitada;Crítica;Fechado;Gabriel;24/01/2025 08:55
+HD-205;05/02/2025 13:17;Bruno Alves;Logística;Erro em sistema;Problema com impressão;Média;Em andamento;Gabriel;
+HD-206;05/04/2025 10:48;Carlos Silva;TI;Backup;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-207;14/01/2025 10:27;Mariana Dias;Comercial;Troca de senha;Troca de senha solicitada;Baixa;Pendente;Paulo;
+HD-208;28/11/2024 09:59;Luciana Rocha;Jurídico;Erro em sistema;Conexão com servidor instável;Alta;Resolvido;Gabriel;30/11/2024 08:46
+HD-209;02/11/2024 09:45;Mariana Dias;RH;Erro em sistema;Conexão com servidor instável;Baixa;Aberto;Gabriel;
+HD-210;22/02/2025 10:19;Carlos Silva;Comercial;Erro em sistema;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-211;10/03/2025 15:44;João Mendes;Marketing;Solicitação de software;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-212;02/12/2024 13:39;Ana Paula;Operações;Erro em sistema;Problema com impressão;Baixa;Aberto;Guilherme;
+HD-213;11/03/2025 12:46;Fernando Lima;Comercial;Falha em equipamento;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-214;24/12/2024 10:26;Luciana Rocha;Financeiro;Troca de senha;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-215;03/12/2024 08:40;João Mendes;Comercial;Falha em equipamento;Problema com impressão;Baixa;Aberto;Gabriel;
+HD-216;02/01/2025 15:12;Luciana Rocha;TI;Falha em equipamento;Solicitação de instalação do Office;Alta;Resolvido;Gabriel;05/01/2025 08:04
+HD-217;17/01/2025 11:23;Fernando Lima;Operações;Acesso ao sistema;Solicitação de instalação do Office;Alta;Fechado;Gabriel;18/01/2025 13:23
+HD-218;08/01/2025 10:23;Luciana Rocha;Logística;Backup;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-219;04/02/2025 12:11;Mariana Dias;Financeiro;Falha em equipamento;Solicitação de instalação do Office;Alta;Aberto;Guilherme;
+HD-220;21/03/2025 14:36;Juliana Castro;RH;Troca de senha;Problema com impressão;Crítica;Aberto;Guilherme;
+HD-221;20/12/2024 08:06;Luciana Rocha;RH;Troca de senha;Erro ao abrir planilha;Média;Fechado;Gabriel;21/12/2024 08:01
+HD-222;17/03/2025 11:58;Juliana Castro;TI;Backup;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;17/03/2025 15:58
+HD-223;01/12/2024 12:12;Juliana Castro;Financeiro;Erro em sistema;Solicitação de instalação do Office;Média;Em andamento;Gabriel;
+HD-224;30/11/2024 09:04;Carlos Silva;RH;Troca de senha;Problema com impressão;Alta;Pendente;Gabriel;
+HD-225;03/03/2025 16:59;João Mendes;Marketing;Solicitação de software;Solicitação de instalação do Office;Alta;Resolvido;Gabriel;04/03/2025 14:59
+HD-226;13/10/2024 16:41;Bruno Alves;TI;Troca de senha;Solicitação de instalação do Office;Alta;Resolvido;Gabriel;13/10/2024 18:53
+HD-227;20/01/2025 10:11;Juliana Castro;RH;Backup;Troca de senha solicitada;Média;Aberto;Guilherme;
+HD-228;06/01/2025 08:40;Ana Paula;Marketing;Solicitação de software;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-229;23/10/2024 15:26;Juliana Castro;Financeiro;Falha em equipamento;Problema com impressão;Alta;Fechado;Paulo;26/10/2024 11:26
+HD-230;26/02/2025 12:34;Fernando Lima;Marketing;Problemas de rede;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-231;21/10/2024 14:59;João Mendes;Logística;Erro em sistema;Solicitação de instalação do Office;Baixa;Fechado;Guilherme;21/10/2024 17:59
+HD-232;02/12/2024 08:03;Mariana Dias;Comercial;Solicitação de software;Erro ao abrir planilha;Alta;Em andamento;Gabriel;
+HD-233;13/11/2024 08:22;Ana Paula;Financeiro;Falha em equipamento;Problema com impressão;Média;Em andamento;Gabriel;
+HD-234;29/12/2024 14:05;João Mendes;Operações;Solicitação de software;Erro ao abrir planilha;Média;Fechado;Gabriel;29/12/2024 15:05
+HD-235;09/01/2025 13:42;Luciana Rocha;Jurídico;Falha em equipamento;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-236;20/10/2024 14:09;Carlos Silva;Logística;Acesso ao sistema;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;21/10/2024 08:32
+HD-237;05/12/2024 11:49;Bruno Alves;Jurídico;Solicitação de software;Erro ao abrir planilha;Alta;Fechado;Guilherme;06/12/2024 16:49
+HD-238;18/10/2024 12:47;Luciana Rocha;Financeiro;Acesso ao sistema;Usuário não consegue acessar o sistema;Crítica;Pendente;Paulo;
+HD-239;13/03/2025 15:08;Bruno Alves;Marketing;Erro em sistema;Usuário não consegue acessar o sistema;Média;Pendente;Paulo;
+HD-240;26/03/2025 10:08;Luciana Rocha;Financeiro;Solicitação de software;Solicitação de instalação do Office;Média;Resolvido;Gabriel;26/03/2025 15:08
+HD-241;05/01/2025 13:58;Ana Paula;Operações;Solicitação de software;Troca de senha solicitada;Alta;Aberto;Guilherme;
+HD-242;16/03/2025 14:44;Juliana Castro;TI;Problemas de rede;Conexão com servidor instável;Baixa;Aberto;Guilherme;
+HD-243;16/10/2024 09:40;Fernando Lima;Jurídico;Acesso ao sistema;Solicitação de instalação do Office;Crítica;Aberto;Guilherme;
+HD-244;01/01/2025 13:26;Mariana Dias;Comercial;Solicitação de software;Erro ao abrir planilha;Alta;Fechado;Gabriel;02/01/2025 15:26
+HD-245;07/12/2024 16:13;Carlos Silva;Financeiro;Problemas de rede;Troca de senha solicitada;Alta;Resolvido;Gabriel;10/12/2024 10:13
+HD-246;08/11/2024 09:52;Juliana Castro;TI;Troca de senha;Conexão com servidor instável;Alta;Aberto;Gabriel;
+HD-247;04/04/2025 11:09;Bruno Alves;RH;Acesso ao sistema;Conexão com servidor instável;Crítica;Pendente;Gabriel;
+HD-248;17/03/2025 10:50;Fernando Lima;RH;Acesso ao sistema;Solicitação de instalação do Office;Crítica;Aberto;Guilherme;
+HD-249;20/11/2024 08:25;Mariana Dias;TI;Falha em equipamento;Solicitação de instalação do Office;Média;Fechado;Paulo;21/11/2024 13:25
+HD-250;07/03/2025 09:19;Juliana Castro;Financeiro;Problemas de rede;Troca de senha solicitada;Baixa;Pendente;Gabriel;
+HD-251;16/02/2025 12:35;Juliana Castro;Comercial;Erro em sistema;Erro ao abrir planilha;Crítica;Fechado;Gabriel;17/02/2025 16:35
+HD-252;24/12/2024 10:28;Fernando Lima;Comercial;Falha em equipamento;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-253;20/01/2025 13:18;Mariana Dias;Comercial;Problemas de rede;Troca de senha solicitada;Crítica;Resolvido;Gabriel;23/01/2025 08:15
+HD-254;09/03/2025 09:52;Luciana Rocha;Operações;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Em andamento;Gabriel;
+HD-255;19/12/2024 15:46;João Mendes;Operações;Solicitação de software;Problema com impressão;Crítica;Em andamento;Gabriel;
+HD-256;24/01/2025 11:14;Carlos Silva;Jurídico;Problemas de rede;Usuário não consegue acessar o sistema;Baixa;Pendente;Guilherme;
+HD-257;21/01/2025 11:40;Luciana Rocha;Operações;Erro em sistema;Problema com impressão;Média;Fechado;Gabriel;22/01/2025 08:25
+HD-258;14/01/2025 13:19;Bruno Alves;Operações;Falha em equipamento;Problema com impressão;Média;Aberto;Gabriel;
+HD-259;19/11/2024 13:24;Fernando Lima;Logística;Backup;Solicitação de instalação do Office;Média;Fechado;Guilherme;21/11/2024 18:02
+HD-260;18/10/2024 11:48;Mariana Dias;Marketing;Erro em sistema;Problema com impressão;Baixa;Resolvido;Guilherme;19/10/2024 09:48
+HD-261;31/03/2025 10:06;Luciana Rocha;Operações;Problemas de rede;Troca de senha solicitada;Média;Pendente;Paulo;
+HD-262;27/02/2025 11:27;Ana Paula;Jurídico;Solicitação de software;Erro ao abrir planilha;Alta;Resolvido;Gabriel;01/03/2025 18:34
+HD-263;16/02/2025 13:47;Fernando Lima;Comercial;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Em andamento;Guilherme;
+HD-264;21/02/2025 13:19;João Mendes;Financeiro;Erro em sistema;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-265;29/12/2024 13:46;Ana Paula;Jurídico;Problemas de rede;Erro ao abrir planilha;Alta;Aberto;Guilherme;
+HD-266;21/01/2025 16:38;Juliana Castro;Operações;Solicitação de software;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-267;11/01/2025 14:40;Ana Paula;TI;Troca de senha;Problema com impressão;Baixa;Fechado;Guilherme;12/01/2025 08:35
+HD-268;25/12/2024 11:43;Carlos Silva;Logística;Acesso ao sistema;Problema com impressão;Alta;Resolvido;Guilherme;27/12/2024 12:43
+HD-269;12/01/2025 11:23;Carlos Silva;Marketing;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Resolvido;Guilherme;14/01/2025 16:23
+HD-270;05/03/2025 12:13;Carlos Silva;Financeiro;Solicitação de software;Problema com impressão;Crítica;Resolvido;Gabriel;08/03/2025 08:01
+HD-271;20/10/2024 11:47;Luciana Rocha;Operações;Troca de senha;Conexão com servidor instável;Crítica;Resolvido;Gabriel;22/10/2024 18:47
+HD-272;24/01/2025 13:57;Juliana Castro;Comercial;Solicitação de software;Problema com impressão;Baixa;Pendente;Gabriel;
+HD-273;27/02/2025 09:09;Juliana Castro;Financeiro;Troca de senha;Usuário não consegue acessar o sistema;Crítica;Fechado;Gabriel;01/03/2025 18:09
+HD-274;14/12/2024 12:47;Luciana Rocha;RH;Troca de senha;Erro ao abrir planilha;Média;Pendente;Gabriel;
+HD-275;19/02/2025 15:00;Ana Paula;Operações;Erro em sistema;Solicitação de instalação do Office;Crítica;Aberto;Guilherme;
+HD-276;15/01/2025 11:38;Juliana Castro;Comercial;Acesso ao sistema;Conexão com servidor instável;Baixa;Resolvido;Paulo;15/01/2025 12:38
+HD-277;20/02/2025 11:32;Bruno Alves;Marketing;Backup;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-278;15/12/2024 14:19;Juliana Castro;Comercial;Problemas de rede;Solicitação de instalação do Office;Média;Aberto;Guilherme;
+HD-279;06/01/2025 15:41;Mariana Dias;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Média;Em andamento;Guilherme;
+HD-280;04/04/2025 16:12;Ana Paula;RH;Falha em equipamento;Troca de senha solicitada;Baixa;Pendente;Gabriel;
+HD-281;12/02/2025 08:19;Bruno Alves;Jurídico;Problemas de rede;Solicitação de instalação do Office;Média;Em andamento;Guilherme;
+HD-282;08/12/2024 08:35;Bruno Alves;TI;Erro em sistema;Usuário não consegue acessar o sistema;Crítica;Fechado;Gabriel;08/12/2024 15:35
+HD-283;02/02/2025 10:05;Juliana Castro;Jurídico;Erro em sistema;Conexão com servidor instável;Alta;Em andamento;Gabriel;
+HD-284;25/02/2025 15:53;João Mendes;Marketing;Falha em equipamento;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-285;24/03/2025 09:05;Fernando Lima;RH;Acesso ao sistema;Troca de senha solicitada;Média;Pendente;Guilherme;
+HD-286;06/03/2025 10:12;Fernando Lima;Operações;Falha em equipamento;Erro ao abrir planilha;Baixa;Resolvido;Guilherme;09/03/2025 08:15
+HD-287;03/11/2024 11:46;Juliana Castro;Jurídico;Erro em sistema;Erro ao abrir planilha;Crítica;Resolvido;Paulo;03/11/2024 18:46
+HD-288;25/02/2025 14:10;Mariana Dias;Logística;Erro em sistema;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-289;12/03/2025 16:40;Carlos Silva;Logística;Solicitação de software;Solicitação de instalação do Office;Média;Pendente;Paulo;
+HD-290;03/03/2025 09:54;Mariana Dias;TI;Problemas de rede;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;03/03/2025 18:03
+HD-291;15/01/2025 08:08;Ana Paula;Logística;Problemas de rede;Troca de senha solicitada;Crítica;Resolvido;Gabriel;18/01/2025 08:30
+HD-292;08/01/2025 16:31;Fernando Lima;Jurídico;Falha em equipamento;Solicitação de instalação do Office;Alta;Em andamento;Guilherme;
+HD-293;04/04/2025 15:07;Bruno Alves;Jurídico;Troca de senha;Erro ao abrir planilha;Média;Em andamento;Gabriel;
+HD-294;29/10/2024 16:50;Mariana Dias;Comercial;Acesso ao sistema;Usuário não consegue acessar o sistema;Baixa;Em andamento;Paulo;
+HD-295;11/02/2025 11:18;João Mendes;Financeiro;Falha em equipamento;Erro ao abrir planilha;Baixa;Em andamento;Paulo;
+HD-296;27/11/2024 14:38;Ana Paula;Marketing;Solicitação de software;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-297;23/11/2024 12:56;Fernando Lima;Financeiro;Troca de senha;Troca de senha solicitada;Crítica;Fechado;Gabriel;24/11/2024 16:56
+HD-298;14/11/2024 13:18;Fernando Lima;Marketing;Backup;Usuário não consegue acessar o sistema;Média;Resolvido;Guilherme;16/11/2024 08:48
+HD-299;19/10/2024 09:52;Fernando Lima;RH;Acesso ao sistema;Solicitação de instalação do Office;Baixa;Resolvido;Guilherme;21/10/2024 13:52
+HD-300;29/01/2025 11:02;Luciana Rocha;Jurídico;Solicitação de software;Usuário não consegue acessar o sistema;Média;Pendente;Paulo;
+HD-301;13/01/2025 14:25;Juliana Castro;Comercial;Solicitação de software;Erro ao abrir planilha;Crítica;Fechado;Guilherme;16/01/2025 11:25
+HD-302;18/03/2025 09:03;Juliana Castro;Logística;Erro em sistema;Conexão com servidor instável;Alta;Fechado;Guilherme;19/03/2025 08:03
+HD-303;22/03/2025 16:56;Carlos Silva;Operações;Falha em equipamento;Erro ao abrir planilha;Baixa;Pendente;Gabriel;
+HD-304;08/11/2024 09:43;Luciana Rocha;Financeiro;Troca de senha;Conexão com servidor instável;Crítica;Resolvido;Guilherme;10/11/2024 12:43
+HD-305;23/10/2024 09:32;Bruno Alves;Jurídico;Problemas de rede;Problema com impressão;Baixa;Pendente;Paulo;
+HD-306;18/02/2025 08:05;Juliana Castro;Logística;Falha em equipamento;Erro ao abrir planilha;Média;Pendente;Gabriel;
+HD-307;23/02/2025 14:52;Ana Paula;RH;Falha em equipamento;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;24/02/2025 08:34
+HD-308;02/04/2025 10:40;Carlos Silva;Financeiro;Acesso ao sistema;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-309;03/12/2024 11:24;Carlos Silva;RH;Troca de senha;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-310;11/11/2024 10:31;Ana Paula;Jurídico;Backup;Erro ao abrir planilha;Alta;Pendente;Gabriel;
+HD-311;22/11/2024 10:16;Luciana Rocha;TI;Backup;Conexão com servidor instável;Média;Em andamento;Guilherme;
+HD-312;21/03/2025 11:13;Luciana Rocha;Jurídico;Backup;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;23/03/2025 08:46
+HD-313;31/01/2025 15:24;Ana Paula;Logística;Falha em equipamento;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;01/02/2025 12:24
+HD-314;12/12/2024 14:53;Bruno Alves;Logística;Erro em sistema;Erro ao abrir planilha;Baixa;Fechado;Gabriel;13/12/2024 14:53
+HD-315;17/12/2024 15:12;Bruno Alves;Operações;Backup;Troca de senha solicitada;Alta;Fechado;Gabriel;19/12/2024 08:07
+HD-316;26/10/2024 08:51;Fernando Lima;Financeiro;Falha em equipamento;Usuário não consegue acessar o sistema;Média;Aberto;Guilherme;
+HD-317;13/11/2024 15:55;Juliana Castro;Marketing;Acesso ao sistema;Usuário não consegue acessar o sistema;Crítica;Em andamento;Gabriel;
+HD-318;05/03/2025 16:42;Fernando Lima;Logística;Solicitação de software;Solicitação de instalação do Office;Alta;Resolvido;Guilherme;06/03/2025 08:17
+HD-319;03/12/2024 12:39;Luciana Rocha;Logística;Solicitação de software;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-320;03/12/2024 11:28;Ana Paula;Operações;Falha em equipamento;Erro ao abrir planilha;Alta;Aberto;Guilherme;
+HD-321;02/04/2025 10:47;Bruno Alves;RH;Solicitação de software;Usuário não consegue acessar o sistema;Média;Aberto;Gabriel;
+HD-322;07/12/2024 09:13;Mariana Dias;TI;Solicitação de software;Solicitação de instalação do Office;Crítica;Pendente;Paulo;
+HD-323;26/01/2025 08:41;Mariana Dias;Comercial;Backup;Usuário não consegue acessar o sistema;Alta;Pendente;Gabriel;
+HD-324;01/01/2025 12:41;João Mendes;TI;Falha em equipamento;Usuário não consegue acessar o sistema;Média;Pendente;Gabriel;
+HD-325;11/01/2025 12:52;João Mendes;RH;Erro em sistema;Erro ao abrir planilha;Média;Aberto;Guilherme;
+HD-326;12/11/2024 14:03;Bruno Alves;Logística;Problemas de rede;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-327;25/11/2024 14:19;Ana Paula;TI;Acesso ao sistema;Usuário não consegue acessar o sistema;Média;Fechado;Gabriel;27/11/2024 08:40
+HD-328;25/10/2024 10:18;Ana Paula;Comercial;Troca de senha;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-329;09/03/2025 09:02;Juliana Castro;Jurídico;Acesso ao sistema;Troca de senha solicitada;Baixa;Pendente;Paulo;
+HD-330;01/02/2025 11:27;Fernando Lima;TI;Erro em sistema;Problema com impressão;Baixa;Resolvido;Gabriel;04/02/2025 08:45
+HD-331;18/10/2024 09:57;Luciana Rocha;Operações;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Pendente;Guilherme;
+HD-332;12/03/2025 08:17;Ana Paula;Financeiro;Erro em sistema;Troca de senha solicitada;Alta;Pendente;Guilherme;
+HD-333;24/03/2025 13:43;Luciana Rocha;Comercial;Erro em sistema;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-334;13/03/2025 14:38;Carlos Silva;Logística;Backup;Usuário não consegue acessar o sistema;Crítica;Resolvido;Paulo;15/03/2025 08:49
+HD-335;28/01/2025 16:59;Bruno Alves;Logística;Troca de senha;Problema com impressão;Média;Aberto;Guilherme;
+HD-336;22/02/2025 15:18;Fernando Lima;TI;Erro em sistema;Troca de senha solicitada;Alta;Aberto;Gabriel;
+HD-337;06/01/2025 10:15;Mariana Dias;TI;Solicitação de software;Solicitação de instalação do Office;Baixa;Fechado;Gabriel;08/01/2025 18:14
+HD-338;18/03/2025 16:34;João Mendes;Marketing;Solicitação de software;Usuário não consegue acessar o sistema;Crítica;Aberto;Guilherme;
+HD-339;03/01/2025 09:19;Mariana Dias;Jurídico;Falha em equipamento;Usuário não consegue acessar o sistema;Média;Aberto;Guilherme;
+HD-340;15/03/2025 08:51;Ana Paula;RH;Erro em sistema;Problema com impressão;Média;Em andamento;Gabriel;
+HD-341;25/02/2025 10:03;Luciana Rocha;TI;Problemas de rede;Troca de senha solicitada;Alta;Aberto;Gabriel;
+HD-342;09/12/2024 16:08;João Mendes;Financeiro;Problemas de rede;Troca de senha solicitada;Baixa;Em andamento;Guilherme;
+HD-343;02/04/2025 11:59;Bruno Alves;TI;Solicitação de software;Troca de senha solicitada;Alta;Resolvido;Gabriel;03/04/2025 08:53
+HD-344;27/11/2024 16:44;Carlos Silva;Jurídico;Acesso ao sistema;Problema com impressão;Crítica;Em andamento;Guilherme;
+HD-345;17/11/2024 08:22;Ana Paula;TI;Solicitação de software;Troca de senha solicitada;Crítica;Fechado;Gabriel;18/11/2024 09:22
+HD-346;23/11/2024 12:58;Luciana Rocha;Comercial;Solicitação de software;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-347;05/01/2025 15:32;Luciana Rocha;Marketing;Backup;Usuário não consegue acessar o sistema;Baixa;Aberto;Gabriel;
+HD-348;30/03/2025 10:04;Mariana Dias;TI;Backup;Erro ao abrir planilha;Alta;Aberto;Paulo;
+HD-349;23/02/2025 16:10;Fernando Lima;Marketing;Backup;Conexão com servidor instável;Alta;Pendente;Guilherme;
+HD-350;14/01/2025 16:32;Luciana Rocha;Logística;Falha em equipamento;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-351;11/02/2025 13:03;João Mendes;RH;Backup;Problema com impressão;Crítica;Fechado;Gabriel;13/02/2025 15:03
+HD-352;19/11/2024 11:39;Bruno Alves;RH;Troca de senha;Troca de senha solicitada;Alta;Pendente;Guilherme;
+HD-353;24/11/2024 08:57;Carlos Silva;Jurídico;Troca de senha;Usuário não consegue acessar o sistema;Média;Resolvido;Gabriel;25/11/2024 08:03
+HD-354;01/12/2024 08:17;Mariana Dias;Financeiro;Erro em sistema;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-355;26/01/2025 14:48;Carlos Silva;RH;Falha em equipamento;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-356;22/02/2025 08:44;João Mendes;Marketing;Problemas de rede;Conexão com servidor instável;Alta;Em andamento;Gabriel;
+HD-357;20/03/2025 09:57;Juliana Castro;Jurídico;Backup;Conexão com servidor instável;Alta;Em andamento;Guilherme;
+HD-358;09/10/2024 13:28;Carlos Silva;Comercial;Backup;Erro ao abrir planilha;Crítica;Resolvido;Gabriel;11/10/2024 14:28
+HD-359;15/01/2025 09:45;Luciana Rocha;Comercial;Troca de senha;Conexão com servidor instável;Baixa;Em andamento;Gabriel;
+HD-360;27/01/2025 10:40;Ana Paula;Logística;Falha em equipamento;Troca de senha solicitada;Baixa;Pendente;Guilherme;
+HD-361;29/10/2024 16:26;Bruno Alves;Comercial;Erro em sistema;Conexão com servidor instável;Baixa;Pendente;Paulo;
+HD-362;06/02/2025 15:18;Ana Paula;Jurídico;Backup;Problema com impressão;Alta;Pendente;Gabriel;
+HD-363;22/12/2024 16:12;Bruno Alves;Financeiro;Erro em sistema;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-364;25/12/2024 14:09;Fernando Lima;Operações;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Pendente;Gabriel;
+HD-365;04/02/2025 11:31;João Mendes;TI;Solicitação de software;Solicitação de instalação do Office;Alta;Pendente;Gabriel;
+HD-366;14/12/2024 12:57;Carlos Silva;Comercial;Falha em equipamento;Usuário não consegue acessar o sistema;Baixa;Resolvido;Gabriel;14/12/2024 18:13
+HD-367;24/12/2024 13:04;Juliana Castro;Financeiro;Solicitação de software;Solicitação de instalação do Office;Baixa;Resolvido;Gabriel;25/12/2024 08:16
+HD-368;04/11/2024 15:18;Bruno Alves;Jurídico;Acesso ao sistema;Usuário não consegue acessar o sistema;Crítica;Pendente;Gabriel;
+HD-369;01/04/2025 12:35;Luciana Rocha;Logística;Backup;Conexão com servidor instável;Alta;Pendente;Gabriel;
+HD-370;02/02/2025 16:22;João Mendes;TI;Troca de senha;Solicitação de instalação do Office;Crítica;Resolvido;Guilherme;05/02/2025 08:58
+HD-371;17/03/2025 15:18;João Mendes;RH;Problemas de rede;Usuário não consegue acessar o sistema;Baixa;Em andamento;Guilherme;
+HD-372;21/01/2025 09:07;Juliana Castro;Marketing;Erro em sistema;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-373;12/03/2025 13:52;Ana Paula;Operações;Falha em equipamento;Erro ao abrir planilha;Baixa;Aberto;Gabriel;
+HD-374;09/03/2025 08:00;Juliana Castro;Operações;Erro em sistema;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-375;16/10/2024 15:08;Bruno Alves;Logística;Solicitação de software;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;18/10/2024 18:08
+HD-376;17/10/2024 16:44;João Mendes;Financeiro;Problemas de rede;Usuário não consegue acessar o sistema;Crítica;Em andamento;Guilherme;
+HD-377;13/01/2025 16:34;Fernando Lima;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;14/01/2025 08:15
+HD-378;12/01/2025 08:37;Mariana Dias;Jurídico;Acesso ao sistema;Erro ao abrir planilha;Alta;Pendente;Gabriel;
+HD-379;31/12/2024 09:11;Mariana Dias;Logística;Solicitação de software;Erro ao abrir planilha;Baixa;Aberto;Gabriel;
+HD-380;28/03/2025 16:39;Fernando Lima;Operações;Falha em equipamento;Erro ao abrir planilha;Crítica;Resolvido;Gabriel;30/03/2025 18:15
+HD-381;22/02/2025 12:44;Fernando Lima;Financeiro;Acesso ao sistema;Erro ao abrir planilha;Alta;Fechado;Guilherme;25/02/2025 10:44
+HD-382;07/12/2024 08:01;Carlos Silva;Financeiro;Falha em equipamento;Solicitação de instalação do Office;Alta;Em andamento;Paulo;
+HD-383;24/10/2024 13:19;Mariana Dias;Financeiro;Solicitação de software;Erro ao abrir planilha;Crítica;Pendente;Guilherme;
+HD-384;29/11/2024 11:25;Fernando Lima;Financeiro;Problemas de rede;Problema com impressão;Baixa;Pendente;Gabriel;
+HD-385;03/11/2024 15:26;Mariana Dias;Logística;Solicitação de software;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-386;15/02/2025 16:25;Mariana Dias;Jurídico;Problemas de rede;Problema com impressão;Baixa;Aberto;Guilherme;
+HD-387;02/01/2025 08:23;Luciana Rocha;Marketing;Backup;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-388;24/01/2025 14:52;Ana Paula;Logística;Acesso ao sistema;Usuário não consegue acessar o sistema;Baixa;Em andamento;Guilherme;
+HD-389;04/12/2024 15:50;Luciana Rocha;RH;Falha em equipamento;Conexão com servidor instável;Média;Fechado;Gabriel;06/12/2024 17:50
+HD-390;17/10/2024 15:14;Bruno Alves;Operações;Problemas de rede;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-391;03/11/2024 16:24;João Mendes;Jurídico;Falha em equipamento;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-392;20/02/2025 12:27;Mariana Dias;Comercial;Falha em equipamento;Troca de senha solicitada;Média;Pendente;Gabriel;
+HD-393;30/01/2025 16:46;Bruno Alves;Operações;Backup;Usuário não consegue acessar o sistema;Baixa;Em andamento;Gabriel;
+HD-394;23/10/2024 14:56;Bruno Alves;Marketing;Backup;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;24/10/2024 18:56
+HD-395;04/01/2025 10:15;Bruno Alves;Jurídico;Solicitação de software;Problema com impressão;Baixa;Pendente;Gabriel;
+HD-396;02/01/2025 16:35;Ana Paula;TI;Acesso ao sistema;Troca de senha solicitada;Média;Aberto;Gabriel;
+HD-397;28/02/2025 12:49;Luciana Rocha;Operações;Acesso ao sistema;Erro ao abrir planilha;Média;Resolvido;Gabriel;28/02/2025 15:49
+HD-398;21/11/2024 12:45;Mariana Dias;RH;Falha em equipamento;Solicitação de instalação do Office;Média;Resolvido;Gabriel;21/11/2024 16:45
+HD-399;16/02/2025 13:51;Juliana Castro;TI;Problemas de rede;Usuário não consegue acessar o sistema;Baixa;Resolvido;Gabriel;19/02/2025 12:51
+HD-400;09/10/2024 10:43;Carlos Silva;Operações;Troca de senha;Usuário não consegue acessar o sistema;Média;Aberto;Guilherme;
+HD-401;03/01/2025 11:11;Mariana Dias;Marketing;Troca de senha;Usuário não consegue acessar o sistema;Média;Fechado;Guilherme;03/01/2025 17:11
+HD-402;25/11/2024 13:44;Mariana Dias;TI;Backup;Troca de senha solicitada;Média;Aberto;Gabriel;
+HD-403;17/03/2025 16:07;Luciana Rocha;Marketing;Erro em sistema;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-404;07/01/2025 09:01;Luciana Rocha;TI;Falha em equipamento;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-405;16/11/2024 12:08;Mariana Dias;Marketing;Solicitação de software;Solicitação de instalação do Office;Baixa;Resolvido;Gabriel;19/11/2024 08:01
+HD-406;25/02/2025 08:38;Mariana Dias;Logística;Falha em equipamento;Usuário não consegue acessar o sistema;Baixa;Aberto;Gabriel;
+HD-407;19/01/2025 09:24;Bruno Alves;Logística;Backup;Solicitação de instalação do Office;Baixa;Pendente;Guilherme;
+HD-408;06/02/2025 09:04;Carlos Silva;Logística;Problemas de rede;Problema com impressão;Baixa;Aberto;Gabriel;
+HD-409;22/02/2025 16:33;Ana Paula;Logística;Acesso ao sistema;Troca de senha solicitada;Média;Fechado;Gabriel;24/02/2025 08:04
+HD-410;06/03/2025 08:55;Bruno Alves;TI;Backup;Troca de senha solicitada;Alta;Pendente;Guilherme;
+HD-411;26/02/2025 12:55;Fernando Lima;Financeiro;Backup;Problema com impressão;Baixa;Em andamento;Guilherme;
+HD-412;14/02/2025 15:02;João Mendes;Comercial;Falha em equipamento;Erro ao abrir planilha;Média;Resolvido;Guilherme;17/02/2025 08:03
+HD-413;07/02/2025 09:31;Fernando Lima;Operações;Solicitação de software;Solicitação de instalação do Office;Baixa;Em andamento;Guilherme;
+HD-414;14/11/2024 09:17;Juliana Castro;RH;Falha em equipamento;Solicitação de instalação do Office;Alta;Em andamento;Gabriel;
+HD-415;31/03/2025 15:58;Ana Paula;Financeiro;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Em andamento;Guilherme;
+HD-416;20/03/2025 15:00;Fernando Lima;TI;Backup;Conexão com servidor instável;Crítica;Aberto;Gabriel;
+HD-417;24/11/2024 13:11;Carlos Silva;RH;Backup;Troca de senha solicitada;Média;Resolvido;Guilherme;25/11/2024 08:49
+HD-418;14/01/2025 16:45;Mariana Dias;Jurídico;Solicitação de software;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-419;05/04/2025 09:11;Ana Paula;Financeiro;Solicitação de software;Troca de senha solicitada;Média;Pendente;Gabriel;
+HD-420;30/12/2024 08:46;João Mendes;Marketing;Problemas de rede;Usuário não consegue acessar o sistema;Baixa;Em andamento;Gabriel;
+HD-421;21/11/2024 08:11;Carlos Silva;TI;Solicitação de software;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-422;21/12/2024 14:47;Bruno Alves;TI;Backup;Conexão com servidor instável;Alta;Fechado;Guilherme;23/12/2024 18:47
+HD-423;02/04/2025 09:45;Fernando Lima;Comercial;Backup;Usuário não consegue acessar o sistema;Média;Aberto;Guilherme;
+HD-424;27/02/2025 09:34;Fernando Lima;Logística;Erro em sistema;Troca de senha solicitada;Média;Resolvido;Gabriel;28/02/2025 16:34
+HD-425;11/10/2024 15:12;João Mendes;Jurídico;Backup;Problema com impressão;Média;Aberto;Gabriel;
+HD-426;17/12/2024 16:58;Carlos Silva;Marketing;Erro em sistema;Troca de senha solicitada;Média;Em andamento;Guilherme;
+HD-427;26/01/2025 14:24;Luciana Rocha;RH;Solicitação de software;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-428;03/02/2025 16:43;Juliana Castro;Jurídico;Troca de senha;Erro ao abrir planilha;Média;Aberto;Guilherme;
+HD-429;05/01/2025 14:08;Luciana Rocha;Jurídico;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Aberto;Guilherme;
+HD-430;18/01/2025 11:27;Mariana Dias;Marketing;Solicitação de software;Conexão com servidor instável;Crítica;Em andamento;Guilherme;
+HD-431;25/10/2024 10:28;Fernando Lima;RH;Problemas de rede;Conexão com servidor instável;Crítica;Pendente;Gabriel;
+HD-432;16/10/2024 14:38;Bruno Alves;Operações;Problemas de rede;Solicitação de instalação do Office;Crítica;Fechado;Gabriel;17/10/2024 14:38
+HD-433;05/11/2024 12:06;Juliana Castro;Marketing;Acesso ao sistema;Conexão com servidor instável;Baixa;Em andamento;Guilherme;
+HD-434;21/12/2024 14:21;Mariana Dias;Logística;Troca de senha;Conexão com servidor instável;Baixa;Fechado;Gabriel;23/12/2024 10:21
+HD-435;14/03/2025 14:56;Bruno Alves;Financeiro;Troca de senha;Problema com impressão;Baixa;Pendente;Gabriel;
+HD-436;18/10/2024 08:40;Ana Paula;Marketing;Erro em sistema;Conexão com servidor instável;Alta;Resolvido;Paulo;18/10/2024 14:40
+HD-437;21/12/2024 14:56;Carlos Silva;Financeiro;Acesso ao sistema;Solicitação de instalação do Office;Baixa;Pendente;Paulo;
+HD-438;21/11/2024 11:31;Ana Paula;Comercial;Problemas de rede;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-439;29/12/2024 13:47;Carlos Silva;Jurídico;Problemas de rede;Usuário não consegue acessar o sistema;Média;Aberto;Guilherme;
+HD-440;04/12/2024 13:10;Juliana Castro;Logística;Troca de senha;Solicitação de instalação do Office;Média;Em andamento;Gabriel;
+HD-441;04/02/2025 13:05;Bruno Alves;Financeiro;Problemas de rede;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-442;01/12/2024 14:34;Luciana Rocha;TI;Erro em sistema;Conexão com servidor instável;Média;Aberto;Gabriel;
+HD-443;01/12/2024 15:45;Luciana Rocha;Financeiro;Falha em equipamento;Erro ao abrir planilha;Alta;Fechado;Gabriel;02/12/2024 13:45
+HD-444;05/02/2025 16:51;Mariana Dias;Logística;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Resolvido;Paulo;06/02/2025 18:51
+HD-445;12/12/2024 13:41;Mariana Dias;Comercial;Acesso ao sistema;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-446;27/02/2025 14:08;Mariana Dias;Operações;Acesso ao sistema;Usuário não consegue acessar o sistema;Média;Em andamento;Gabriel;
+HD-447;18/11/2024 14:28;Carlos Silva;Logística;Problemas de rede;Conexão com servidor instável;Baixa;Aberto;Guilherme;
+HD-448;29/01/2025 12:08;Juliana Castro;Logística;Falha em equipamento;Problema com impressão;Alta;Fechado;Gabriel;29/01/2025 17:08
+HD-449;31/10/2024 15:36;Mariana Dias;Logística;Troca de senha;Usuário não consegue acessar o sistema;Alta;Resolvido;Guilherme;02/11/2024 09:36
+HD-450;18/12/2024 08:25;Bruno Alves;RH;Acesso ao sistema;Solicitação de instalação do Office;Média;Em andamento;Guilherme;
+HD-451;24/10/2024 09:49;Ana Paula;Financeiro;Problemas de rede;Erro ao abrir planilha;Média;Pendente;Guilherme;
+HD-452;05/02/2025 12:07;Carlos Silva;Logística;Problemas de rede;Troca de senha solicitada;Média;Em andamento;Guilherme;
+HD-453;07/02/2025 15:17;Fernando Lima;TI;Erro em sistema;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-454;07/11/2024 13:02;João Mendes;Operações;Solicitação de software;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-455;26/12/2024 11:06;João Mendes;RH;Erro em sistema;Conexão com servidor instável;Alta;Em andamento;Guilherme;
+HD-456;29/12/2024 15:24;Mariana Dias;TI;Backup;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-457;03/01/2025 15:07;Bruno Alves;Financeiro;Backup;Problema com impressão;Crítica;Resolvido;Gabriel;05/01/2025 08:18
+HD-458;10/03/2025 14:26;Luciana Rocha;Operações;Falha em equipamento;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-459;09/03/2025 16:20;Mariana Dias;Marketing;Falha em equipamento;Solicitação de instalação do Office;Baixa;Aberto;Paulo;
+HD-460;10/10/2024 14:16;Fernando Lima;Comercial;Erro em sistema;Solicitação de instalação do Office;Baixa;Pendente;Gabriel;
+HD-461;15/03/2025 10:54;Luciana Rocha;Operações;Erro em sistema;Erro ao abrir planilha;Crítica;Fechado;Gabriel;16/03/2025 08:37
+HD-462;10/10/2024 08:39;João Mendes;Logística;Problemas de rede;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;13/10/2024 08:32
+HD-463;27/10/2024 16:57;Mariana Dias;Jurídico;Acesso ao sistema;Problema com impressão;Média;Resolvido;Gabriel;27/10/2024 18:25
+HD-464;18/03/2025 10:12;Fernando Lima;TI;Problemas de rede;Problema com impressão;Crítica;Fechado;Guilherme;19/03/2025 08:32
+HD-465;09/12/2024 09:07;Fernando Lima;Comercial;Falha em equipamento;Erro ao abrir planilha;Alta;Resolvido;Guilherme;11/12/2024 08:00
+HD-466;19/11/2024 08:52;Luciana Rocha;Comercial;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-467;14/01/2025 10:58;Bruno Alves;Marketing;Problemas de rede;Problema com impressão;Média;Fechado;Gabriel;15/01/2025 18:48
+HD-468;22/02/2025 16:50;Mariana Dias;Comercial;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Aberto;Guilherme;
+HD-469;23/01/2025 13:15;Ana Paula;Financeiro;Acesso ao sistema;Usuário não consegue acessar o sistema;Média;Aberto;Gabriel;
+HD-470;04/11/2024 10:06;Bruno Alves;Financeiro;Falha em equipamento;Erro ao abrir planilha;Média;Pendente;Guilherme;
+HD-471;21/11/2024 09:21;Luciana Rocha;Marketing;Erro em sistema;Conexão com servidor instável;Baixa;Resolvido;Gabriel;22/11/2024 15:21
+HD-472;02/03/2025 09:53;Luciana Rocha;Operações;Falha em equipamento;Solicitação de instalação do Office;Baixa;Resolvido;Guilherme;04/03/2025 08:38
+HD-473;26/12/2024 15:41;Luciana Rocha;Comercial;Acesso ao sistema;Usuário não consegue acessar o sistema;Baixa;Em andamento;Guilherme;
+HD-474;17/01/2025 10:38;Luciana Rocha;TI;Troca de senha;Solicitação de instalação do Office;Crítica;Fechado;Gabriel;20/01/2025 08:23
+HD-475;01/04/2025 10:45;Ana Paula;Financeiro;Solicitação de software;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-476;15/01/2025 12:13;Carlos Silva;Jurídico;Solicitação de software;Solicitação de instalação do Office;Crítica;Fechado;Paulo;17/01/2025 13:13
+HD-477;27/02/2025 11:20;Mariana Dias;Operações;Troca de senha;Erro ao abrir planilha;Alta;Resolvido;Paulo;02/03/2025 08:10
+HD-478;12/03/2025 08:41;Fernando Lima;TI;Solicitação de software;Solicitação de instalação do Office;Baixa;Fechado;Gabriel;12/03/2025 11:41
+HD-479;29/01/2025 16:19;Luciana Rocha;TI;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Resolvido;Guilherme;31/01/2025 09:19
+HD-480;22/12/2024 08:29;Juliana Castro;Jurídico;Erro em sistema;Solicitação de instalação do Office;Média;Pendente;Guilherme;
+HD-481;05/04/2025 11:22;João Mendes;TI;Backup;Solicitação de instalação do Office;Baixa;Resolvido;Gabriel;05/04/2025 18:28
+HD-482;16/11/2024 12:43;Fernando Lima;Marketing;Backup;Usuário não consegue acessar o sistema;Alta;Pendente;Gabriel;
+HD-483;15/12/2024 16:57;Ana Paula;Marketing;Troca de senha;Erro ao abrir planilha;Média;Pendente;Gabriel;
+HD-484;11/12/2024 14:11;Bruno Alves;Marketing;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Fechado;Paulo;12/12/2024 08:11
+HD-485;11/10/2024 16:04;Luciana Rocha;Marketing;Acesso ao sistema;Solicitação de instalação do Office;Média;Aberto;Paulo;
+HD-486;23/11/2024 11:58;Juliana Castro;Marketing;Solicitação de software;Solicitação de instalação do Office;Média;Fechado;Guilherme;25/11/2024 17:58
+HD-487;16/01/2025 08:46;Mariana Dias;TI;Erro em sistema;Solicitação de instalação do Office;Alta;Em andamento;Gabriel;
+HD-488;11/11/2024 11:25;Mariana Dias;TI;Troca de senha;Erro ao abrir planilha;Média;Resolvido;Guilherme;12/11/2024 11:25
+HD-489;22/12/2024 08:00;Bruno Alves;Operações;Problemas de rede;Usuário não consegue acessar o sistema;Crítica;Resolvido;Gabriel;24/12/2024 10:00
+HD-490;05/02/2025 12:32;Ana Paula;Financeiro;Problemas de rede;Solicitação de instalação do Office;Média;Resolvido;Gabriel;06/02/2025 08:02
+HD-491;03/12/2024 16:24;Carlos Silva;Financeiro;Falha em equipamento;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-492;03/03/2025 14:50;Mariana Dias;Marketing;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Aberto;Gabriel;
+HD-493;28/01/2025 13:29;Mariana Dias;Operações;Problemas de rede;Solicitação de instalação do Office;Crítica;Fechado;Guilherme;30/01/2025 08:17
+HD-494;31/10/2024 15:37;Bruno Alves;TI;Troca de senha;Solicitação de instalação do Office;Média;Resolvido;Guilherme;01/11/2024 09:37
+HD-495;20/12/2024 10:12;Luciana Rocha;TI;Acesso ao sistema;Usuário não consegue acessar o sistema;Crítica;Aberto;Guilherme;
+HD-496;04/02/2025 09:02;Ana Paula;Operações;Solicitação de software;Usuário não consegue acessar o sistema;Média;Pendente;Gabriel;
+HD-497;18/03/2025 10:01;Luciana Rocha;Marketing;Falha em equipamento;Erro ao abrir planilha;Média;Pendente;Guilherme;
+HD-498;02/12/2024 15:50;Ana Paula;TI;Backup;Solicitação de instalação do Office;Média;Em andamento;Gabriel;
+HD-499;07/11/2024 10:02;João Mendes;Logística;Backup;Troca de senha solicitada;Crítica;Fechado;Gabriel;10/11/2024 08:58
+HD-500;29/01/2025 10:44;Luciana Rocha;Marketing;Problemas de rede;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-501;10/03/2025 12:50;João Mendes;Logística;Troca de senha;Problema com impressão;Baixa;Aberto;Gabriel;
+HD-502;18/10/2024 08:01;João Mendes;Logística;Acesso ao sistema;Usuário não consegue acessar o sistema;Média;Em andamento;Gabriel;
+HD-503;20/10/2024 16:18;Juliana Castro;Logística;Falha em equipamento;Usuário não consegue acessar o sistema;Alta;Pendente;Paulo;
+HD-504;25/02/2025 13:04;Luciana Rocha;Marketing;Troca de senha;Usuário não consegue acessar o sistema;Média;Fechado;Guilherme;25/02/2025 18:04
+HD-505;21/01/2025 08:34;Fernando Lima;Jurídico;Erro em sistema;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-506;13/03/2025 13:08;Bruno Alves;Operações;Troca de senha;Problema com impressão;Crítica;Fechado;Guilherme;14/03/2025 08:56
+HD-507;15/12/2024 15:39;Fernando Lima;Marketing;Problemas de rede;Problema com impressão;Crítica;Pendente;Paulo;
+HD-508;03/12/2024 08:21;Fernando Lima;Operações;Falha em equipamento;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-509;28/10/2024 09:54;Bruno Alves;Operações;Troca de senha;Conexão com servidor instável;Alta;Pendente;Gabriel;
+HD-510;08/01/2025 16:17;Bruno Alves;Marketing;Backup;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-511;15/11/2024 14:49;Ana Paula;Jurídico;Falha em equipamento;Conexão com servidor instável;Crítica;Resolvido;Guilherme;16/11/2024 12:49
+HD-512;13/10/2024 11:48;João Mendes;Operações;Erro em sistema;Problema com impressão;Média;Aberto;Gabriel;
+HD-513;24/11/2024 08:03;Juliana Castro;Operações;Backup;Usuário não consegue acessar o sistema;Baixa;Pendente;Gabriel;
+HD-514;22/11/2024 10:26;Carlos Silva;TI;Problemas de rede;Solicitação de instalação do Office;Alta;Pendente;Gabriel;
+HD-515;06/04/2025 10:56;João Mendes;RH;Solicitação de software;Problema com impressão;Média;Pendente;Guilherme;
+HD-516;31/10/2024 16:15;Juliana Castro;Operações;Acesso ao sistema;Erro ao abrir planilha;Baixa;Resolvido;Gabriel;01/11/2024 12:15
+HD-517;27/01/2025 09:18;Mariana Dias;Jurídico;Problemas de rede;Solicitação de instalação do Office;Alta;Pendente;Gabriel;
+HD-518;11/11/2024 16:00;Ana Paula;Logística;Falha em equipamento;Usuário não consegue acessar o sistema;Alta;Fechado;Guilherme;14/11/2024 08:30
+HD-519;10/01/2025 12:39;Fernando Lima;Financeiro;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Resolvido;Gabriel;11/01/2025 15:39
+HD-520;09/03/2025 13:24;Juliana Castro;RH;Solicitação de software;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-521;18/12/2024 13:46;Mariana Dias;Marketing;Problemas de rede;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-522;11/10/2024 09:32;Juliana Castro;Operações;Backup;Troca de senha solicitada;Crítica;Resolvido;Gabriel;11/10/2024 18:35
+HD-523;26/03/2025 11:37;Carlos Silva;TI;Problemas de rede;Usuário não consegue acessar o sistema;Baixa;Em andamento;Gabriel;
+HD-524;09/10/2024 12:18;Carlos Silva;Jurídico;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Pendente;Gabriel;
+HD-525;23/12/2024 15:25;Luciana Rocha;TI;Solicitação de software;Troca de senha solicitada;Crítica;Fechado;Guilherme;23/12/2024 18:14
+HD-526;15/02/2025 15:06;Fernando Lima;Logística;Backup;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-527;24/12/2024 13:33;Bruno Alves;Jurídico;Problemas de rede;Conexão com servidor instável;Média;Aberto;Gabriel;
+HD-528;26/02/2025 11:33;Luciana Rocha;TI;Acesso ao sistema;Conexão com servidor instável;Crítica;Pendente;Guilherme;
+HD-529;11/10/2024 14:57;Fernando Lima;Logística;Acesso ao sistema;Solicitação de instalação do Office;Média;Em andamento;Gabriel;
+HD-530;29/12/2024 16:54;João Mendes;Operações;Backup;Erro ao abrir planilha;Média;Aberto;Guilherme;
+HD-531;06/02/2025 11:30;Bruno Alves;Operações;Acesso ao sistema;Solicitação de instalação do Office;Alta;Em andamento;Gabriel;
+HD-532;12/11/2024 12:33;Juliana Castro;Logística;Backup;Solicitação de instalação do Office;Crítica;Aberto;Guilherme;
+HD-533;21/12/2024 14:41;João Mendes;RH;Troca de senha;Solicitação de instalação do Office;Alta;Fechado;Guilherme;23/12/2024 15:41
+HD-534;19/12/2024 09:31;Luciana Rocha;Jurídico;Falha em equipamento;Solicitação de instalação do Office;Crítica;Pendente;Paulo;
+HD-535;01/04/2025 08:38;Carlos Silva;Marketing;Erro em sistema;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-536;23/10/2024 14:37;Fernando Lima;Comercial;Backup;Problema com impressão;Baixa;Pendente;Gabriel;
+HD-537;30/01/2025 13:49;Mariana Dias;RH;Backup;Problema com impressão;Média;Fechado;Gabriel;01/02/2025 16:49
+HD-538;09/11/2024 11:06;Mariana Dias;Logística;Falha em equipamento;Usuário não consegue acessar o sistema;Alta;Fechado;Guilherme;10/11/2024 16:06
+HD-539;02/12/2024 16:03;João Mendes;Financeiro;Solicitação de software;Problema com impressão;Baixa;Fechado;Guilherme;05/12/2024 08:36
+HD-540;01/02/2025 09:58;Juliana Castro;Logística;Acesso ao sistema;Erro ao abrir planilha;Média;Pendente;Guilherme;
+HD-541;01/02/2025 16:18;Luciana Rocha;Marketing;Backup;Problema com impressão;Crítica;Pendente;Paulo;
+HD-542;04/04/2025 16:19;Luciana Rocha;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;06/04/2025 08:19
+HD-543;22/11/2024 08:30;João Mendes;Comercial;Erro em sistema;Problema com impressão;Crítica;Resolvido;Gabriel;24/11/2024 17:30
+HD-544;05/04/2025 10:59;Bruno Alves;Operações;Acesso ao sistema;Solicitação de instalação do Office;Baixa;Fechado;Gabriel;06/04/2025 12:59
+HD-545;05/11/2024 12:06;Bruno Alves;Operações;Acesso ao sistema;Problema com impressão;Crítica;Em andamento;Gabriel;
+HD-546;30/11/2024 10:34;Ana Paula;Operações;Backup;Conexão com servidor instável;Baixa;Resolvido;Gabriel;02/12/2024 08:50
+HD-547;08/02/2025 14:57;Carlos Silva;Logística;Acesso ao sistema;Problema com impressão;Crítica;Em andamento;Gabriel;
+HD-548;26/10/2024 08:52;Luciana Rocha;Operações;Solicitação de software;Usuário não consegue acessar o sistema;Crítica;Resolvido;Paulo;27/10/2024 15:52
+HD-549;26/03/2025 16:03;Luciana Rocha;Financeiro;Backup;Solicitação de instalação do Office;Crítica;Pendente;Guilherme;
+HD-550;05/03/2025 09:46;João Mendes;Jurídico;Troca de senha;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-551;28/10/2024 16:03;Bruno Alves;Operações;Erro em sistema;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;30/10/2024 18:49
+HD-552;16/10/2024 08:13;Ana Paula;Jurídico;Troca de senha;Problema com impressão;Baixa;Em andamento;Guilherme;
+HD-553;18/11/2024 16:33;Mariana Dias;Financeiro;Acesso ao sistema;Usuário não consegue acessar o sistema;Alta;Em andamento;Guilherme;
+HD-554;23/03/2025 14:39;Fernando Lima;Marketing;Backup;Troca de senha solicitada;Média;Resolvido;Gabriel;23/03/2025 18:13
+HD-555;09/11/2024 09:55;Juliana Castro;Operações;Troca de senha;Usuário não consegue acessar o sistema;Baixa;Em andamento;Gabriel;
+HD-556;01/12/2024 12:15;Juliana Castro;Financeiro;Troca de senha;Conexão com servidor instável;Crítica;Pendente;Guilherme;
+HD-557;14/02/2025 13:59;Mariana Dias;Operações;Acesso ao sistema;Conexão com servidor instável;Baixa;Em andamento;Guilherme;
+HD-558;07/02/2025 09:07;João Mendes;Comercial;Acesso ao sistema;Conexão com servidor instável;Baixa;Fechado;Gabriel;10/02/2025 09:07
+HD-559;16/11/2024 09:54;Fernando Lima;Financeiro;Acesso ao sistema;Problema com impressão;Alta;Em andamento;Gabriel;
+HD-560;07/03/2025 08:24;Luciana Rocha;Comercial;Backup;Erro ao abrir planilha;Alta;Em andamento;Gabriel;
+HD-561;25/02/2025 10:52;Mariana Dias;TI;Falha em equipamento;Problema com impressão;Alta;Pendente;Gabriel;
+HD-562;09/11/2024 14:53;Fernando Lima;TI;Solicitação de software;Troca de senha solicitada;Baixa;Em andamento;Guilherme;
+HD-563;23/02/2025 15:01;Luciana Rocha;Logística;Troca de senha;Erro ao abrir planilha;Baixa;Resolvido;Gabriel;25/02/2025 08:31
+HD-564;11/10/2024 14:22;Luciana Rocha;Jurídico;Problemas de rede;Problema com impressão;Alta;Aberto;Guilherme;
+HD-565;12/10/2024 10:56;Bruno Alves;Marketing;Troca de senha;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-566;27/03/2025 11:23;Ana Paula;Logística;Erro em sistema;Conexão com servidor instável;Crítica;Em andamento;Paulo;
+HD-567;22/10/2024 15:49;Fernando Lima;Financeiro;Backup;Usuário não consegue acessar o sistema;Alta;Resolvido;Guilherme;23/10/2024 08:23
+HD-568;01/02/2025 13:23;Mariana Dias;Logística;Falha em equipamento;Conexão com servidor instável;Média;Aberto;Gabriel;
+HD-569;23/01/2025 12:09;Bruno Alves;RH;Troca de senha;Conexão com servidor instável;Média;Pendente;Guilherme;
+HD-570;08/02/2025 12:38;Juliana Castro;Operações;Troca de senha;Solicitação de instalação do Office;Alta;Aberto;Gabriel;
+HD-571;11/01/2025 11:12;Luciana Rocha;TI;Troca de senha;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-572;15/02/2025 16:06;Juliana Castro;Comercial;Acesso ao sistema;Erro ao abrir planilha;Alta;Resolvido;Gabriel;16/02/2025 08:35
+HD-573;24/11/2024 14:11;Ana Paula;TI;Solicitação de software;Solicitação de instalação do Office;Baixa;Pendente;Guilherme;
+HD-574;12/01/2025 08:43;Mariana Dias;Comercial;Falha em equipamento;Conexão com servidor instável;Alta;Fechado;Gabriel;13/01/2025 09:43
+HD-575;30/01/2025 12:27;João Mendes;Comercial;Falha em equipamento;Solicitação de instalação do Office;Média;Pendente;Gabriel;
+HD-576;17/11/2024 10:19;João Mendes;RH;Troca de senha;Conexão com servidor instável;Baixa;Fechado;Gabriel;18/11/2024 08:49
+HD-577;25/12/2024 11:56;Luciana Rocha;Operações;Solicitação de software;Troca de senha solicitada;Baixa;Aberto;Guilherme;
+HD-578;15/12/2024 15:45;João Mendes;Operações;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Resolvido;Guilherme;16/12/2024 18:22
+HD-579;07/01/2025 09:13;Bruno Alves;Comercial;Backup;Erro ao abrir planilha;Alta;Aberto;Paulo;
+HD-580;18/02/2025 10:26;Luciana Rocha;Jurídico;Backup;Solicitação de instalação do Office;Crítica;Em andamento;Guilherme;
+HD-581;04/04/2025 12:07;Carlos Silva;Jurídico;Backup;Erro ao abrir planilha;Crítica;Fechado;Paulo;05/04/2025 15:07
+HD-582;18/02/2025 09:27;Ana Paula;RH;Falha em equipamento;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-583;22/10/2024 09:44;João Mendes;Marketing;Acesso ao sistema;Solicitação de instalação do Office;Alta;Resolvido;Guilherme;24/10/2024 08:46
+HD-584;14/01/2025 15:54;Mariana Dias;Jurídico;Problemas de rede;Erro ao abrir planilha;Crítica;Fechado;Guilherme;16/01/2025 18:33
+HD-585;08/03/2025 09:46;Ana Paula;Operações;Erro em sistema;Usuário não consegue acessar o sistema;Alta;Pendente;Guilherme;
+HD-586;29/10/2024 12:47;Juliana Castro;Financeiro;Falha em equipamento;Solicitação de instalação do Office;Média;Resolvido;Gabriel;30/10/2024 11:47
+HD-587;13/12/2024 11:06;Bruno Alves;RH;Erro em sistema;Erro ao abrir planilha;Crítica;Pendente;Gabriel;
+HD-588;17/12/2024 12:28;João Mendes;TI;Erro em sistema;Erro ao abrir planilha;Média;Pendente;Gabriel;
+HD-589;13/03/2025 15:01;Carlos Silva;Logística;Problemas de rede;Erro ao abrir planilha;Alta;Fechado;Gabriel;15/03/2025 09:01
+HD-590;12/03/2025 11:04;Luciana Rocha;Operações;Backup;Erro ao abrir planilha;Crítica;Em andamento;Guilherme;
+HD-591;18/11/2024 08:18;Luciana Rocha;Comercial;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Pendente;Gabriel;
+HD-592;14/12/2024 15:58;Luciana Rocha;RH;Acesso ao sistema;Problema com impressão;Média;Resolvido;Gabriel;16/12/2024 08:03
+HD-593;10/11/2024 13:36;Luciana Rocha;Logística;Acesso ao sistema;Problema com impressão;Crítica;Fechado;Gabriel;13/11/2024 08:36
+HD-594;19/02/2025 08:09;Ana Paula;Comercial;Problemas de rede;Problema com impressão;Alta;Aberto;Gabriel;
+HD-595;12/11/2024 15:39;Carlos Silva;Logística;Falha em equipamento;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-596;03/01/2025 14:30;Ana Paula;Comercial;Erro em sistema;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-597;10/03/2025 09:06;João Mendes;RH;Backup;Problema com impressão;Média;Resolvido;Guilherme;12/03/2025 18:32
+HD-598;10/01/2025 08:08;Carlos Silva;Financeiro;Erro em sistema;Conexão com servidor instável;Média;Resolvido;Gabriel;12/01/2025 08:32
+HD-599;18/02/2025 13:08;Bruno Alves;Comercial;Troca de senha;Troca de senha solicitada;Crítica;Em andamento;Guilherme;
+HD-600;21/03/2025 15:56;Ana Paula;RH;Backup;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-601;12/02/2025 12:47;Juliana Castro;Marketing;Erro em sistema;Erro ao abrir planilha;Alta;Resolvido;Gabriel;13/02/2025 18:35
+HD-602;18/03/2025 15:00;Juliana Castro;Jurídico;Backup;Problema com impressão;Crítica;Fechado;Guilherme;20/03/2025 18:56
+HD-603;13/02/2025 15:42;Mariana Dias;Operações;Problemas de rede;Problema com impressão;Média;Fechado;Gabriel;15/02/2025 08:41
+HD-604;09/01/2025 11:28;Bruno Alves;Operações;Troca de senha;Erro ao abrir planilha;Baixa;Resolvido;Gabriel;11/01/2025 11:28
+HD-605;27/01/2025 08:18;Bruno Alves;Jurídico;Solicitação de software;Solicitação de instalação do Office;Média;Em andamento;Guilherme;
+HD-606;04/02/2025 14:43;Ana Paula;Financeiro;Acesso ao sistema;Troca de senha solicitada;Baixa;Aberto;Gabriel;
+HD-607;23/03/2025 14:18;Carlos Silva;Financeiro;Erro em sistema;Conexão com servidor instável;Alta;Fechado;Guilherme;25/03/2025 08:47
+HD-608;18/01/2025 15:35;Mariana Dias;RH;Solicitação de software;Problema com impressão;Crítica;Fechado;Gabriel;19/01/2025 16:35
+HD-609;03/01/2025 15:55;Mariana Dias;Logística;Backup;Problema com impressão;Média;Fechado;Gabriel;05/01/2025 18:45
+HD-610;09/02/2025 09:12;Bruno Alves;Jurídico;Falha em equipamento;Conexão com servidor instável;Crítica;Em andamento;Paulo;
+HD-611;14/02/2025 14:22;Bruno Alves;Operações;Troca de senha;Usuário não consegue acessar o sistema;Crítica;Aberto;Gabriel;
+HD-612;23/02/2025 10:57;Juliana Castro;TI;Troca de senha;Solicitação de instalação do Office;Alta;Pendente;Paulo;
+HD-613;20/12/2024 13:35;Carlos Silva;TI;Erro em sistema;Troca de senha solicitada;Média;Em andamento;Guilherme;
+HD-614;08/01/2025 16:30;Bruno Alves;Comercial;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Resolvido;Guilherme;11/01/2025 10:30
+HD-615;13/12/2024 09:01;Carlos Silva;RH;Falha em equipamento;Troca de senha solicitada;Crítica;Fechado;Gabriel;15/12/2024 08:12
+HD-616;05/12/2024 10:08;Mariana Dias;Comercial;Erro em sistema;Problema com impressão;Crítica;Resolvido;Gabriel;08/12/2024 08:58
+HD-617;24/11/2024 14:20;Fernando Lima;Logística;Acesso ao sistema;Conexão com servidor instável;Alta;Fechado;Gabriel;26/11/2024 08:23
+HD-618;09/11/2024 09:37;Mariana Dias;Financeiro;Falha em equipamento;Usuário não consegue acessar o sistema;Média;Em andamento;Guilherme;
+HD-619;15/03/2025 08:27;Ana Paula;RH;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Resolvido;Guilherme;16/03/2025 18:04
+HD-620;29/11/2024 12:28;Carlos Silva;Operações;Falha em equipamento;Problema com impressão;Média;Em andamento;Paulo;
+HD-621;17/02/2025 08:17;João Mendes;Comercial;Troca de senha;Problema com impressão;Alta;Aberto;Gabriel;
+HD-622;15/03/2025 08:31;Juliana Castro;Financeiro;Acesso ao sistema;Conexão com servidor instável;Alta;Aberto;Gabriel;
+HD-623;08/12/2024 12:11;Bruno Alves;TI;Problemas de rede;Usuário não consegue acessar o sistema;Alta;Aberto;Gabriel;
+HD-624;04/02/2025 10:19;Bruno Alves;Logística;Backup;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-625;30/12/2024 08:09;Luciana Rocha;RH;Solicitação de software;Problema com impressão;Média;Em andamento;Guilherme;
+HD-626;25/10/2024 11:03;Mariana Dias;Financeiro;Erro em sistema;Erro ao abrir planilha;Média;Fechado;Gabriel;27/10/2024 10:03
+HD-627;13/11/2024 08:41;Fernando Lima;Jurídico;Troca de senha;Conexão com servidor instável;Crítica;Aberto;Guilherme;
+HD-628;29/12/2024 10:25;Bruno Alves;Marketing;Solicitação de software;Conexão com servidor instável;Crítica;Resolvido;Gabriel;29/12/2024 11:25
+HD-629;19/10/2024 12:40;Fernando Lima;TI;Problemas de rede;Conexão com servidor instável;Crítica;Resolvido;Guilherme;21/10/2024 08:42
+HD-630;04/11/2024 11:50;Fernando Lima;Operações;Problemas de rede;Erro ao abrir planilha;Baixa;Pendente;Guilherme;
+HD-631;08/12/2024 09:33;João Mendes;RH;Solicitação de software;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-632;18/03/2025 11:55;Mariana Dias;RH;Falha em equipamento;Problema com impressão;Baixa;Aberto;Gabriel;
+HD-633;06/03/2025 08:49;Carlos Silva;TI;Solicitação de software;Problema com impressão;Média;Em andamento;Gabriel;
+HD-634;26/12/2024 13:36;João Mendes;Financeiro;Falha em equipamento;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-635;22/01/2025 10:49;João Mendes;Financeiro;Troca de senha;Troca de senha solicitada;Baixa;Pendente;Gabriel;
+HD-636;03/01/2025 11:15;Bruno Alves;Logística;Problemas de rede;Erro ao abrir planilha;Crítica;Fechado;Guilherme;06/01/2025 10:15
+HD-637;17/12/2024 14:24;Carlos Silva;Comercial;Problemas de rede;Solicitação de instalação do Office;Crítica;Resolvido;Gabriel;19/12/2024 08:12
+HD-638;14/02/2025 16:45;Carlos Silva;Logística;Troca de senha;Troca de senha solicitada;Média;Fechado;Guilherme;17/02/2025 08:47
+HD-639;09/01/2025 12:01;Bruno Alves;TI;Backup;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-640;19/02/2025 10:33;Luciana Rocha;Marketing;Troca de senha;Erro ao abrir planilha;Média;Fechado;Paulo;21/02/2025 18:15
+HD-641;22/02/2025 14:02;Juliana Castro;Comercial;Solicitação de software;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-642;17/02/2025 09:48;João Mendes;TI;Falha em equipamento;Erro ao abrir planilha;Alta;Resolvido;Gabriel;19/02/2025 11:48
+HD-643;06/03/2025 10:07;Carlos Silva;Marketing;Acesso ao sistema;Usuário não consegue acessar o sistema;Alta;Aberto;Gabriel;
+HD-644;14/03/2025 10:57;Luciana Rocha;Comercial;Falha em equipamento;Conexão com servidor instável;Média;Resolvido;Gabriel;14/03/2025 14:57
+HD-645;03/11/2024 10:24;Carlos Silva;Marketing;Erro em sistema;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-646;23/12/2024 14:45;Juliana Castro;Comercial;Erro em sistema;Problema com impressão;Crítica;Fechado;Guilherme;25/12/2024 18:13
+HD-647;02/01/2025 08:04;Fernando Lima;Logística;Erro em sistema;Problema com impressão;Alta;Pendente;Gabriel;
+HD-648;14/01/2025 12:00;Carlos Silva;RH;Falha em equipamento;Erro ao abrir planilha;Crítica;Pendente;Gabriel;
+HD-649;01/02/2025 08:04;Carlos Silva;Marketing;Backup;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-650;02/12/2024 15:10;Juliana Castro;Logística;Troca de senha;Problema com impressão;Alta;Em andamento;Gabriel;
+HD-651;19/11/2024 09:19;Fernando Lima;Marketing;Acesso ao sistema;Conexão com servidor instável;Média;Em andamento;Guilherme;
+HD-652;10/03/2025 13:17;Mariana Dias;Comercial;Erro em sistema;Solicitação de instalação do Office;Média;Fechado;Gabriel;11/03/2025 12:17
+HD-653;07/11/2024 09:15;Luciana Rocha;Comercial;Erro em sistema;Problema com impressão;Média;Em andamento;Gabriel;
+HD-654;08/03/2025 15:09;Carlos Silva;Operações;Acesso ao sistema;Conexão com servidor instável;Média;Fechado;Gabriel;09/03/2025 18:28
+HD-655;29/11/2024 16:42;Fernando Lima;Financeiro;Acesso ao sistema;Troca de senha solicitada;Média;Fechado;Gabriel;02/12/2024 08:54
+HD-656;23/02/2025 08:04;Fernando Lima;Jurídico;Problemas de rede;Problema com impressão;Crítica;Fechado;Gabriel;25/02/2025 18:38
+HD-657;24/03/2025 10:56;Mariana Dias;Jurídico;Erro em sistema;Solicitação de instalação do Office;Baixa;Fechado;Paulo;27/03/2025 08:08
+HD-658;07/01/2025 12:43;Juliana Castro;TI;Problemas de rede;Problema com impressão;Média;Fechado;Gabriel;10/01/2025 12:43
+HD-659;13/12/2024 12:35;João Mendes;Jurídico;Problemas de rede;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-660;24/10/2024 09:36;Ana Paula;TI;Backup;Erro ao abrir planilha;Baixa;Aberto;Paulo;
+HD-661;28/03/2025 13:34;Luciana Rocha;Operações;Erro em sistema;Erro ao abrir planilha;Baixa;Em andamento;Guilherme;
+HD-662;31/10/2024 14:20;Fernando Lima;RH;Falha em equipamento;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-663;26/12/2024 08:35;Bruno Alves;Marketing;Erro em sistema;Solicitação de instalação do Office;Baixa;Aberto;Guilherme;
+HD-664;20/11/2024 09:39;Luciana Rocha;Jurídico;Problemas de rede;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-665;12/02/2025 11:28;Juliana Castro;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Crítica;Em andamento;Gabriel;
+HD-666;02/11/2024 10:59;Juliana Castro;Comercial;Erro em sistema;Conexão com servidor instável;Alta;Fechado;Guilherme;03/11/2024 08:15
+HD-667;02/01/2025 16:56;Juliana Castro;Logística;Acesso ao sistema;Troca de senha solicitada;Baixa;Fechado;Guilherme;05/01/2025 08:47
+HD-668;19/02/2025 16:20;Juliana Castro;Financeiro;Acesso ao sistema;Troca de senha solicitada;Alta;Resolvido;Gabriel;21/02/2025 09:20
+HD-669;30/12/2024 15:50;João Mendes;Marketing;Troca de senha;Erro ao abrir planilha;Alta;Aberto;Gabriel;
+HD-670;08/03/2025 11:42;Carlos Silva;TI;Erro em sistema;Usuário não consegue acessar o sistema;Crítica;Em andamento;Guilherme;
+HD-671;15/01/2025 08:45;Fernando Lima;Comercial;Acesso ao sistema;Troca de senha solicitada;Crítica;Resolvido;Guilherme;18/01/2025 08:09
+HD-672;04/12/2024 15:27;Carlos Silva;TI;Acesso ao sistema;Problema com impressão;Alta;Aberto;Guilherme;
+HD-673;27/02/2025 11:11;Bruno Alves;Logística;Falha em equipamento;Erro ao abrir planilha;Baixa;Fechado;Gabriel;02/03/2025 11:11
+HD-674;17/01/2025 08:21;João Mendes;RH;Solicitação de software;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-675;19/10/2024 08:01;Luciana Rocha;Operações;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Resolvido;Guilherme;20/10/2024 08:16
+HD-676;25/03/2025 10:26;Ana Paula;RH;Acesso ao sistema;Conexão com servidor instável;Crítica;Resolvido;Guilherme;26/03/2025 09:26
+HD-677;02/04/2025 11:10;Fernando Lima;RH;Acesso ao sistema;Troca de senha solicitada;Alta;Fechado;Gabriel;02/04/2025 13:10
+HD-678;15/01/2025 15:10;Juliana Castro;Financeiro;Solicitação de software;Erro ao abrir planilha;Baixa;Resolvido;Gabriel;17/01/2025 08:46
+HD-679;18/02/2025 09:52;Carlos Silva;TI;Acesso ao sistema;Conexão com servidor instável;Alta;Fechado;Gabriel;18/02/2025 15:52
+HD-680;07/01/2025 14:54;Juliana Castro;Financeiro;Falha em equipamento;Conexão com servidor instável;Média;Fechado;Guilherme;09/01/2025 08:54
+HD-681;15/02/2025 13:00;Luciana Rocha;Marketing;Solicitação de software;Problema com impressão;Média;Aberto;Guilherme;
+HD-682;05/04/2025 15:24;Mariana Dias;RH;Solicitação de software;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-683;06/12/2024 11:15;João Mendes;RH;Problemas de rede;Problema com impressão;Crítica;Resolvido;Guilherme;07/12/2024 15:15
+HD-684;06/04/2025 12:58;Mariana Dias;Marketing;Solicitação de software;Problema com impressão;Crítica;Aberto;Guilherme;
+HD-685;02/11/2024 11:21;Ana Paula;Jurídico;Troca de senha;Usuário não consegue acessar o sistema;Crítica;Fechado;Gabriel;03/11/2024 08:21
+HD-686;12/03/2025 13:08;Carlos Silva;Logística;Solicitação de software;Troca de senha solicitada;Crítica;Em andamento;Gabriel;
+HD-687;18/01/2025 09:03;Bruno Alves;RH;Erro em sistema;Erro ao abrir planilha;Baixa;Em andamento;Gabriel;
+HD-688;23/03/2025 15:18;Luciana Rocha;Logística;Problemas de rede;Conexão com servidor instável;Crítica;Resolvido;Guilherme;25/03/2025 08:33
+HD-689;08/03/2025 13:29;Bruno Alves;Financeiro;Solicitação de software;Conexão com servidor instável;Crítica;Resolvido;Guilherme;10/03/2025 12:29
+HD-690;31/03/2025 13:35;Luciana Rocha;Logística;Acesso ao sistema;Problema com impressão;Alta;Fechado;Gabriel;02/04/2025 11:35
+HD-691;19/03/2025 10:41;Luciana Rocha;Marketing;Backup;Usuário não consegue acessar o sistema;Baixa;Pendente;Paulo;
+HD-692;01/03/2025 11:22;Carlos Silva;Operações;Troca de senha;Problema com impressão;Crítica;Em andamento;Guilherme;
+HD-693;17/12/2024 09:29;Juliana Castro;Comercial;Problemas de rede;Troca de senha solicitada;Média;Pendente;Guilherme;
+HD-694;22/10/2024 14:37;Ana Paula;Comercial;Falha em equipamento;Erro ao abrir planilha;Baixa;Pendente;Gabriel;
+HD-695;18/11/2024 14:11;Fernando Lima;Jurídico;Acesso ao sistema;Conexão com servidor instável;Alta;Fechado;Gabriel;20/11/2024 11:11
+HD-696;19/11/2024 14:44;Ana Paula;TI;Solicitação de software;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-697;22/12/2024 08:01;Mariana Dias;Jurídico;Backup;Problema com impressão;Crítica;Em andamento;Guilherme;
+HD-698;28/12/2024 14:40;Bruno Alves;TI;Falha em equipamento;Conexão com servidor instável;Crítica;Aberto;Guilherme;
+HD-699;01/01/2025 16:53;Luciana Rocha;RH;Acesso ao sistema;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-700;03/03/2025 11:47;Fernando Lima;Logística;Acesso ao sistema;Problema com impressão;Baixa;Em andamento;Guilherme;
+HD-701;17/12/2024 09:31;Fernando Lima;Financeiro;Erro em sistema;Erro ao abrir planilha;Média;Fechado;Gabriel;19/12/2024 11:31
+HD-702;29/12/2024 16:54;Ana Paula;Logística;Problemas de rede;Solicitação de instalação do Office;Média;Em andamento;Gabriel;
+HD-703;23/11/2024 11:09;Fernando Lima;Marketing;Problemas de rede;Usuário não consegue acessar o sistema;Média;Em andamento;Gabriel;
+HD-704;14/03/2025 14:32;Mariana Dias;Operações;Solicitação de software;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-705;04/11/2024 13:40;Luciana Rocha;Comercial;Solicitação de software;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-706;06/02/2025 09:34;Fernando Lima;Financeiro;Troca de senha;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-707;29/11/2024 11:35;Carlos Silva;TI;Solicitação de software;Solicitação de instalação do Office;Baixa;Aberto;Paulo;
+HD-708;03/04/2025 16:53;Bruno Alves;Jurídico;Erro em sistema;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-709;22/10/2024 09:05;Fernando Lima;Comercial;Erro em sistema;Usuário não consegue acessar o sistema;Média;Fechado;Gabriel;22/10/2024 14:05
+HD-710;07/03/2025 11:36;Ana Paula;RH;Solicitação de software;Troca de senha solicitada;Baixa;Pendente;Guilherme;
+HD-711;12/01/2025 10:22;Mariana Dias;Operações;Troca de senha;Problema com impressão;Média;Resolvido;Gabriel;13/01/2025 08:13
+HD-712;26/02/2025 15:44;Carlos Silva;Marketing;Solicitação de software;Problema com impressão;Alta;Aberto;Guilherme;
+HD-713;11/10/2024 11:52;Luciana Rocha;Financeiro;Troca de senha;Conexão com servidor instável;Baixa;Pendente;Guilherme;
+HD-714;24/03/2025 14:36;João Mendes;Logística;Backup;Conexão com servidor instável;Média;Em andamento;Guilherme;
+HD-715;17/11/2024 10:51;Carlos Silva;Financeiro;Backup;Problema com impressão;Crítica;Resolvido;Paulo;19/11/2024 14:51
+HD-716;25/11/2024 14:00;Luciana Rocha;RH;Acesso ao sistema;Erro ao abrir planilha;Alta;Resolvido;Guilherme;27/11/2024 08:52
+HD-717;26/12/2024 15:40;João Mendes;Financeiro;Falha em equipamento;Conexão com servidor instável;Média;Resolvido;Gabriel;29/12/2024 08:11
+HD-718;25/12/2024 15:01;João Mendes;Comercial;Backup;Solicitação de instalação do Office;Crítica;Fechado;Gabriel;26/12/2024 15:01
+HD-719;13/01/2025 11:17;João Mendes;Marketing;Troca de senha;Solicitação de instalação do Office;Alta;Fechado;Gabriel;16/01/2025 08:02
+HD-720;19/03/2025 16:14;Bruno Alves;TI;Troca de senha;Problema com impressão;Alta;Fechado;Gabriel;21/03/2025 08:14
+HD-721;21/02/2025 08:32;Mariana Dias;TI;Troca de senha;Erro ao abrir planilha;Alta;Aberto;Gabriel;
+HD-722;08/02/2025 11:58;Mariana Dias;Financeiro;Problemas de rede;Conexão com servidor instável;Média;Resolvido;Gabriel;09/02/2025 08:27
+HD-723;16/02/2025 15:29;João Mendes;Comercial;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;17/02/2025 14:29
+HD-724;13/11/2024 12:17;Ana Paula;TI;Acesso ao sistema;Troca de senha solicitada;Média;Em andamento;Gabriel;
+HD-725;28/02/2025 14:49;Fernando Lima;Logística;Backup;Conexão com servidor instável;Média;Resolvido;Guilherme;01/03/2025 08:42
+HD-726;10/03/2025 11:24;João Mendes;Logística;Erro em sistema;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-727;22/10/2024 08:19;Juliana Castro;Operações;Acesso ao sistema;Erro ao abrir planilha;Média;Pendente;Gabriel;
+HD-728;28/01/2025 13:53;Fernando Lima;TI;Solicitação de software;Erro ao abrir planilha;Alta;Resolvido;Gabriel;29/01/2025 08:53
+HD-729;29/01/2025 08:01;Ana Paula;TI;Backup;Usuário não consegue acessar o sistema;Média;Resolvido;Gabriel;29/01/2025 18:37
+HD-730;28/02/2025 11:05;Juliana Castro;Logística;Backup;Erro ao abrir planilha;Média;Em andamento;Gabriel;
+HD-731;22/03/2025 10:49;Fernando Lima;Marketing;Troca de senha;Troca de senha solicitada;Média;Aberto;Gabriel;
+HD-732;02/02/2025 15:13;João Mendes;Comercial;Backup;Usuário não consegue acessar o sistema;Alta;Fechado;Gabriel;03/02/2025 10:13
+HD-733;17/12/2024 14:07;Ana Paula;RH;Falha em equipamento;Problema com impressão;Crítica;Fechado;Paulo;19/12/2024 12:07
+HD-734;14/02/2025 16:30;Mariana Dias;Jurídico;Troca de senha;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-735;17/11/2024 09:50;Luciana Rocha;Operações;Solicitação de software;Solicitação de instalação do Office;Alta;Aberto;Gabriel;
+HD-736;28/12/2024 12:26;Luciana Rocha;Financeiro;Erro em sistema;Solicitação de instalação do Office;Baixa;Fechado;Guilherme;29/12/2024 18:41
+HD-737;16/12/2024 13:38;Juliana Castro;Comercial;Erro em sistema;Troca de senha solicitada;Crítica;Pendente;Paulo;
+HD-738;16/11/2024 13:09;Juliana Castro;RH;Erro em sistema;Erro ao abrir planilha;Crítica;Fechado;Gabriel;18/11/2024 18:09
+HD-739;18/10/2024 15:27;Luciana Rocha;Jurídico;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Pendente;Guilherme;
+HD-740;20/10/2024 09:24;Fernando Lima;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Média;Resolvido;Gabriel;21/10/2024 18:57
+HD-741;18/10/2024 13:10;João Mendes;Logística;Solicitação de software;Problema com impressão;Média;Em andamento;Gabriel;
+HD-742;08/11/2024 12:31;Juliana Castro;Financeiro;Problemas de rede;Problema com impressão;Alta;Em andamento;Gabriel;
+HD-743;04/02/2025 16:09;Bruno Alves;Financeiro;Acesso ao sistema;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-744;14/01/2025 10:45;Carlos Silva;Financeiro;Falha em equipamento;Erro ao abrir planilha;Crítica;Em andamento;Guilherme;
+HD-745;16/11/2024 15:03;Carlos Silva;Marketing;Solicitação de software;Problema com impressão;Crítica;Fechado;Gabriel;19/11/2024 08:43
+HD-746;20/11/2024 11:02;Bruno Alves;Financeiro;Solicitação de software;Usuário não consegue acessar o sistema;Média;Em andamento;Gabriel;
+HD-747;23/11/2024 09:28;Carlos Silva;RH;Erro em sistema;Solicitação de instalação do Office;Baixa;Fechado;Gabriel;23/11/2024 14:28
+HD-748;08/02/2025 11:19;Carlos Silva;RH;Problemas de rede;Solicitação de instalação do Office;Média;Pendente;Paulo;
+HD-749;16/01/2025 13:18;Luciana Rocha;Financeiro;Falha em equipamento;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-750;22/02/2025 13:13;Fernando Lima;Operações;Problemas de rede;Solicitação de instalação do Office;Baixa;Resolvido;Guilherme;24/02/2025 18:21
+HD-751;13/12/2024 11:21;Carlos Silva;Comercial;Erro em sistema;Problema com impressão;Crítica;Resolvido;Guilherme;15/12/2024 08:46
+HD-752;20/02/2025 10:44;Juliana Castro;Operações;Falha em equipamento;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-753;17/01/2025 15:58;Juliana Castro;Comercial;Acesso ao sistema;Problema com impressão;Alta;Resolvido;Gabriel;20/01/2025 08:57
+HD-754;11/02/2025 09:20;Bruno Alves;Logística;Erro em sistema;Conexão com servidor instável;Crítica;Fechado;Gabriel;13/02/2025 08:12
+HD-755;01/11/2024 08:16;Luciana Rocha;RH;Troca de senha;Troca de senha solicitada;Crítica;Resolvido;Gabriel;03/11/2024 14:16
+HD-756;04/12/2024 08:20;Luciana Rocha;TI;Acesso ao sistema;Usuário não consegue acessar o sistema;Alta;Fechado;Gabriel;06/12/2024 08:21
+HD-757;31/12/2024 12:50;Mariana Dias;Logística;Troca de senha;Conexão com servidor instável;Alta;Resolvido;Gabriel;02/01/2025 18:26
+HD-758;04/03/2025 15:00;Luciana Rocha;Jurídico;Acesso ao sistema;Troca de senha solicitada;Alta;Fechado;Guilherme;06/03/2025 14:00
+HD-759;24/10/2024 12:12;Bruno Alves;Comercial;Erro em sistema;Troca de senha solicitada;Média;Resolvido;Guilherme;25/10/2024 18:50
+HD-760;12/11/2024 12:44;Ana Paula;Jurídico;Acesso ao sistema;Troca de senha solicitada;Média;Em andamento;Gabriel;
+HD-761;22/02/2025 15:16;Mariana Dias;Operações;Falha em equipamento;Problema com impressão;Crítica;Fechado;Guilherme;25/02/2025 08:28
+HD-762;16/02/2025 12:27;Juliana Castro;Marketing;Solicitação de software;Erro ao abrir planilha;Crítica;Em andamento;Gabriel;
+HD-763;10/12/2024 09:34;João Mendes;RH;Acesso ao sistema;Erro ao abrir planilha;Crítica;Pendente;Gabriel;
+HD-764;31/01/2025 09:26;Luciana Rocha;Jurídico;Backup;Troca de senha solicitada;Crítica;Em andamento;Gabriel;
+HD-765;29/12/2024 10:52;Ana Paula;Financeiro;Troca de senha;Usuário não consegue acessar o sistema;Crítica;Fechado;Gabriel;30/12/2024 17:52
+HD-766;01/03/2025 08:01;Ana Paula;RH;Falha em equipamento;Usuário não consegue acessar o sistema;Baixa;Pendente;Paulo;
+HD-767;12/10/2024 12:17;Juliana Castro;Jurídico;Erro em sistema;Usuário não consegue acessar o sistema;Média;Em andamento;Guilherme;
+HD-768;28/11/2024 15:09;Juliana Castro;Comercial;Backup;Troca de senha solicitada;Crítica;Aberto;Paulo;
+HD-769;23/10/2024 13:11;Carlos Silva;Operações;Acesso ao sistema;Troca de senha solicitada;Média;Aberto;Guilherme;
+HD-770;11/11/2024 12:20;Fernando Lima;RH;Troca de senha;Problema com impressão;Crítica;Em andamento;Gabriel;
+HD-771;22/01/2025 13:25;Luciana Rocha;Operações;Troca de senha;Erro ao abrir planilha;Média;Resolvido;Gabriel;22/01/2025 17:25
+HD-772;25/03/2025 09:57;Mariana Dias;TI;Erro em sistema;Usuário não consegue acessar o sistema;Alta;Pendente;Guilherme;
+HD-773;13/01/2025 16:37;Luciana Rocha;Jurídico;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Em andamento;Guilherme;
+HD-774;17/10/2024 09:06;Luciana Rocha;Financeiro;Erro em sistema;Problema com impressão;Média;Aberto;Gabriel;
+HD-775;10/11/2024 11:08;Bruno Alves;Operações;Erro em sistema;Erro ao abrir planilha;Alta;Em andamento;Gabriel;
+HD-776;08/01/2025 12:31;Mariana Dias;Comercial;Backup;Problema com impressão;Média;Resolvido;Gabriel;10/01/2025 14:31
+HD-777;06/02/2025 12:35;Bruno Alves;TI;Acesso ao sistema;Conexão com servidor instável;Crítica;Pendente;Gabriel;
+HD-778;01/01/2025 10:23;Mariana Dias;Comercial;Falha em equipamento;Solicitação de instalação do Office;Média;Fechado;Guilherme;04/01/2025 08:20
+HD-779;29/11/2024 09:54;Bruno Alves;Operações;Problemas de rede;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-780;06/02/2025 12:54;Carlos Silva;RH;Problemas de rede;Solicitação de instalação do Office;Crítica;Fechado;Gabriel;06/02/2025 18:54
+HD-781;25/12/2024 11:05;Ana Paula;Financeiro;Troca de senha;Solicitação de instalação do Office;Crítica;Pendente;Gabriel;
+HD-782;16/02/2025 08:04;Luciana Rocha;Operações;Falha em equipamento;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-783;29/11/2024 08:38;Carlos Silva;Jurídico;Problemas de rede;Solicitação de instalação do Office;Baixa;Fechado;Gabriel;01/12/2024 13:38
+HD-784;17/02/2025 10:29;Juliana Castro;Jurídico;Problemas de rede;Conexão com servidor instável;Crítica;Em andamento;Guilherme;
+HD-785;21/12/2024 10:03;Juliana Castro;Comercial;Acesso ao sistema;Conexão com servidor instável;Baixa;Em andamento;Gabriel;
+HD-786;13/01/2025 13:12;Mariana Dias;TI;Backup;Erro ao abrir planilha;Crítica;Pendente;Gabriel;
+HD-787;20/03/2025 09:23;Juliana Castro;Jurídico;Backup;Solicitação de instalação do Office;Baixa;Em andamento;Paulo;
+HD-788;18/02/2025 14:18;Juliana Castro;Logística;Troca de senha;Usuário não consegue acessar o sistema;Crítica;Em andamento;Gabriel;
+HD-789;19/11/2024 10:22;Carlos Silva;Marketing;Erro em sistema;Erro ao abrir planilha;Média;Aberto;Gabriel;
+HD-790;01/02/2025 12:40;Bruno Alves;TI;Troca de senha;Usuário não consegue acessar o sistema;Alta;Resolvido;Gabriel;02/02/2025 10:40
+HD-791;15/01/2025 11:16;Fernando Lima;Marketing;Problemas de rede;Erro ao abrir planilha;Média;Fechado;Gabriel;17/01/2025 14:16
+HD-792;11/03/2025 09:45;Luciana Rocha;Marketing;Troca de senha;Usuário não consegue acessar o sistema;Baixa;Em andamento;Gabriel;
+HD-793;01/12/2024 14:12;Mariana Dias;Logística;Erro em sistema;Solicitação de instalação do Office;Baixa;Pendente;Gabriel;
+HD-794;04/02/2025 08:40;Mariana Dias;Logística;Troca de senha;Problema com impressão;Alta;Pendente;Gabriel;
+HD-795;09/02/2025 13:17;Bruno Alves;Comercial;Erro em sistema;Usuário não consegue acessar o sistema;Média;Em andamento;Guilherme;
+HD-796;29/01/2025 14:38;Luciana Rocha;Logística;Backup;Troca de senha solicitada;Crítica;Resolvido;Guilherme;01/02/2025 08:56
+HD-797;17/10/2024 15:45;Ana Paula;Logística;Solicitação de software;Conexão com servidor instável;Alta;Aberto;Guilherme;
+HD-798;06/04/2025 13:28;Fernando Lima;TI;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Aberto;Gabriel;
+HD-799;03/02/2025 14:54;Bruno Alves;Marketing;Erro em sistema;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-800;12/10/2024 15:53;Bruno Alves;Marketing;Falha em equipamento;Erro ao abrir planilha;Média;Aberto;Gabriel;
+HD-801;17/01/2025 14:24;Fernando Lima;RH;Solicitação de software;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-802;03/11/2024 13:20;Juliana Castro;Operações;Acesso ao sistema;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-803;13/03/2025 10:49;Carlos Silva;Logística;Falha em equipamento;Problema com impressão;Alta;Aberto;Gabriel;
+HD-804;22/10/2024 15:44;Ana Paula;TI;Falha em equipamento;Erro ao abrir planilha;Baixa;Em andamento;Paulo;
+HD-805;25/10/2024 08:20;João Mendes;Operações;Problemas de rede;Solicitação de instalação do Office;Alta;Pendente;Gabriel;
+HD-806;12/12/2024 14:23;Ana Paula;Marketing;Acesso ao sistema;Erro ao abrir planilha;Média;Em andamento;Gabriel;
+HD-807;01/03/2025 08:25;Luciana Rocha;RH;Erro em sistema;Conexão com servidor instável;Alta;Fechado;Gabriel;03/03/2025 17:25
+HD-808;29/12/2024 14:16;Juliana Castro;TI;Problemas de rede;Usuário não consegue acessar o sistema;Média;Em andamento;Paulo;
+HD-809;20/12/2024 16:21;Carlos Silva;Logística;Problemas de rede;Problema com impressão;Crítica;Resolvido;Guilherme;20/12/2024 18:40
+HD-810;23/01/2025 16:58;Mariana Dias;RH;Acesso ao sistema;Erro ao abrir planilha;Média;Em andamento;Gabriel;
+HD-811;19/12/2024 13:35;Mariana Dias;Comercial;Solicitação de software;Conexão com servidor instável;Alta;Em andamento;Gabriel;
+HD-812;14/10/2024 11:18;Carlos Silva;Marketing;Falha em equipamento;Erro ao abrir planilha;Alta;Resolvido;Gabriel;15/10/2024 16:18
+HD-813;17/11/2024 08:21;Bruno Alves;Jurídico;Troca de senha;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-814;22/03/2025 12:47;Luciana Rocha;RH;Solicitação de software;Usuário não consegue acessar o sistema;Baixa;Fechado;Guilherme;25/03/2025 09:47
+HD-815;28/10/2024 15:51;Bruno Alves;Operações;Falha em equipamento;Erro ao abrir planilha;Baixa;Pendente;Gabriel;
+HD-816;28/02/2025 14:15;Bruno Alves;TI;Erro em sistema;Solicitação de instalação do Office;Alta;Aberto;Guilherme;
+HD-817;17/11/2024 13:47;Carlos Silva;Jurídico;Troca de senha;Troca de senha solicitada;Alta;Fechado;Gabriel;19/11/2024 08:14
+HD-818;20/12/2024 08:07;Luciana Rocha;TI;Problemas de rede;Usuário não consegue acessar o sistema;Crítica;Aberto;Gabriel;
+HD-819;08/11/2024 08:02;João Mendes;Jurídico;Backup;Solicitação de instalação do Office;Alta;Fechado;Gabriel;10/11/2024 15:02
+HD-820;25/11/2024 14:35;Mariana Dias;Jurídico;Erro em sistema;Usuário não consegue acessar o sistema;Crítica;Resolvido;Guilherme;26/11/2024 14:35
+HD-821;20/02/2025 11:16;Mariana Dias;Comercial;Acesso ao sistema;Troca de senha solicitada;Crítica;Em andamento;Gabriel;
+HD-822;03/02/2025 14:18;Bruno Alves;Logística;Troca de senha;Usuário não consegue acessar o sistema;Alta;Pendente;Gabriel;
+HD-823;07/03/2025 14:08;Mariana Dias;Operações;Troca de senha;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-824;03/11/2024 09:37;Ana Paula;Jurídico;Backup;Usuário não consegue acessar o sistema;Baixa;Fechado;Guilherme;04/11/2024 15:37
+HD-825;28/01/2025 16:42;Juliana Castro;Comercial;Erro em sistema;Problema com impressão;Crítica;Pendente;Gabriel;
+HD-826;24/02/2025 10:22;Luciana Rocha;Marketing;Acesso ao sistema;Troca de senha solicitada;Média;Fechado;Gabriel;26/02/2025 08:22
+HD-827;02/03/2025 08:04;Mariana Dias;Jurídico;Erro em sistema;Erro ao abrir planilha;Baixa;Pendente;Gabriel;
+HD-828;12/11/2024 09:48;Fernando Lima;TI;Solicitação de software;Troca de senha solicitada;Crítica;Pendente;Guilherme;
+HD-829;29/10/2024 16:43;Mariana Dias;Operações;Erro em sistema;Problema com impressão;Média;Em andamento;Guilherme;
+HD-830;04/04/2025 13:24;Luciana Rocha;Logística;Erro em sistema;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-831;21/02/2025 11:14;João Mendes;Comercial;Solicitação de software;Solicitação de instalação do Office;Alta;Resolvido;Paulo;24/02/2025 08:48
+HD-832;09/01/2025 10:15;Luciana Rocha;Logística;Solicitação de software;Troca de senha solicitada;Baixa;Fechado;Gabriel;10/01/2025 08:15
+HD-833;26/03/2025 10:18;Luciana Rocha;TI;Backup;Problema com impressão;Crítica;Aberto;Guilherme;
+HD-834;24/01/2025 11:25;Carlos Silva;Operações;Problemas de rede;Usuário não consegue acessar o sistema;Média;Resolvido;Gabriel;26/01/2025 08:38
+HD-835;31/12/2024 13:49;Luciana Rocha;Jurídico;Solicitação de software;Troca de senha solicitada;Média;Em andamento;Guilherme;
+HD-836;28/10/2024 15:08;Ana Paula;Operações;Backup;Solicitação de instalação do Office;Alta;Pendente;Gabriel;
+HD-837;09/01/2025 13:39;Fernando Lima;Operações;Backup;Conexão com servidor instável;Crítica;Em andamento;Guilherme;
+HD-838;03/04/2025 08:33;Fernando Lima;TI;Erro em sistema;Solicitação de instalação do Office;Crítica;Resolvido;Guilherme;03/04/2025 17:33
+HD-839;20/02/2025 12:21;Fernando Lima;Marketing;Problemas de rede;Usuário não consegue acessar o sistema;Baixa;Aberto;Guilherme;
+HD-840;13/10/2024 09:13;Fernando Lima;Marketing;Falha em equipamento;Usuário não consegue acessar o sistema;Baixa;Resolvido;Guilherme;14/10/2024 09:13
+HD-841;29/11/2024 14:49;Mariana Dias;Jurídico;Troca de senha;Conexão com servidor instável;Alta;Fechado;Gabriel;02/12/2024 08:03
+HD-842;24/01/2025 11:31;Ana Paula;Operações;Falha em equipamento;Troca de senha solicitada;Crítica;Aberto;Paulo;
+HD-843;17/03/2025 16:01;Ana Paula;TI;Problemas de rede;Conexão com servidor instável;Média;Resolvido;Gabriel;17/03/2025 18:03
+HD-844;14/01/2025 15:54;Mariana Dias;Comercial;Troca de senha;Problema com impressão;Crítica;Resolvido;Guilherme;16/01/2025 18:21
+HD-845;21/11/2024 12:41;Carlos Silva;Comercial;Solicitação de software;Erro ao abrir planilha;Alta;Aberto;Guilherme;
+HD-846;01/11/2024 09:34;Luciana Rocha;Financeiro;Backup;Erro ao abrir planilha;Crítica;Aberto;Guilherme;
+HD-847;24/10/2024 15:17;João Mendes;Comercial;Problemas de rede;Problema com impressão;Crítica;Resolvido;Guilherme;26/10/2024 09:17
+HD-848;24/01/2025 09:55;Fernando Lima;Marketing;Backup;Solicitação de instalação do Office;Crítica;Resolvido;Guilherme;24/01/2025 12:55
+HD-849;22/01/2025 14:09;Ana Paula;RH;Acesso ao sistema;Usuário não consegue acessar o sistema;Média;Resolvido;Gabriel;24/01/2025 08:30
+HD-850;30/10/2024 14:49;Juliana Castro;TI;Troca de senha;Erro ao abrir planilha;Baixa;Aberto;Gabriel;
+HD-851;14/02/2025 14:45;Fernando Lima;Operações;Falha em equipamento;Conexão com servidor instável;Baixa;Em andamento;Gabriel;
+HD-852;26/01/2025 16:51;Luciana Rocha;Operações;Falha em equipamento;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-853;21/11/2024 14:26;Fernando Lima;Operações;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-854;17/10/2024 16:13;Ana Paula;Jurídico;Problemas de rede;Problema com impressão;Crítica;Aberto;Guilherme;
+HD-855;01/03/2025 08:39;Juliana Castro;Logística;Acesso ao sistema;Usuário não consegue acessar o sistema;Média;Fechado;Gabriel;02/03/2025 08:35
+HD-856;07/12/2024 14:01;Ana Paula;Jurídico;Troca de senha;Solicitação de instalação do Office;Baixa;Aberto;Gabriel;
+HD-857;22/02/2025 16:25;Mariana Dias;Logística;Troca de senha;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-858;14/10/2024 15:49;João Mendes;Financeiro;Falha em equipamento;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;16/10/2024 18:57
+HD-859;12/02/2025 09:47;Mariana Dias;Operações;Acesso ao sistema;Usuário não consegue acessar o sistema;Baixa;Fechado;Gabriel;13/02/2025 09:47
+HD-860;15/03/2025 13:50;Carlos Silva;Financeiro;Solicitação de software;Problema com impressão;Média;Pendente;Guilherme;
+HD-861;07/12/2024 10:32;Juliana Castro;TI;Troca de senha;Solicitação de instalação do Office;Crítica;Resolvido;Paulo;08/12/2024 09:32
+HD-862;16/03/2025 16:48;Ana Paula;Comercial;Troca de senha;Troca de senha solicitada;Crítica;Fechado;Paulo;18/03/2025 08:46
+HD-863;07/11/2024 16:30;Bruno Alves;Jurídico;Solicitação de software;Problema com impressão;Média;Resolvido;Gabriel;09/11/2024 10:30
+HD-864;11/01/2025 08:40;Carlos Silva;Logística;Problemas de rede;Problema com impressão;Média;Pendente;Guilherme;
+HD-865;27/10/2024 16:49;Ana Paula;Jurídico;Backup;Solicitação de instalação do Office;Média;Resolvido;Gabriel;28/10/2024 15:49
+HD-866;01/02/2025 16:14;Mariana Dias;Marketing;Troca de senha;Conexão com servidor instável;Alta;Fechado;Guilherme;04/02/2025 08:14
+HD-867;13/03/2025 10:13;Fernando Lima;RH;Solicitação de software;Solicitação de instalação do Office;Baixa;Em andamento;Gabriel;
+HD-868;02/01/2025 08:55;Juliana Castro;Marketing;Solicitação de software;Problema com impressão;Baixa;Aberto;Gabriel;
+HD-869;21/11/2024 16:44;Fernando Lima;Comercial;Solicitação de software;Troca de senha solicitada;Alta;Pendente;Gabriel;
+HD-870;14/03/2025 11:45;João Mendes;Financeiro;Acesso ao sistema;Troca de senha solicitada;Crítica;Pendente;Guilherme;
+HD-871;17/12/2024 14:06;Bruno Alves;Logística;Problemas de rede;Conexão com servidor instável;Crítica;Resolvido;Guilherme;17/12/2024 16:06
+HD-872;06/03/2025 09:38;Luciana Rocha;Comercial;Backup;Solicitação de instalação do Office;Baixa;Pendente;Gabriel;
+HD-873;21/11/2024 09:27;Luciana Rocha;Logística;Erro em sistema;Conexão com servidor instável;Média;Aberto;Gabriel;
+HD-874;19/02/2025 08:26;Mariana Dias;Jurídico;Troca de senha;Solicitação de instalação do Office;Baixa;Em andamento;Guilherme;
+HD-875;17/01/2025 16:14;Juliana Castro;RH;Problemas de rede;Erro ao abrir planilha;Média;Fechado;Gabriel;19/01/2025 18:20
+HD-876;30/11/2024 16:08;Ana Paula;Marketing;Acesso ao sistema;Erro ao abrir planilha;Média;Aberto;Gabriel;
+HD-877;21/03/2025 15:56;Juliana Castro;TI;Solicitação de software;Conexão com servidor instável;Média;Pendente;Gabriel;
+HD-878;27/03/2025 12:42;Luciana Rocha;Comercial;Solicitação de software;Solicitação de instalação do Office;Baixa;Pendente;Guilherme;
+HD-879;02/12/2024 14:08;Fernando Lima;RH;Backup;Troca de senha solicitada;Baixa;Aberto;Paulo;
+HD-880;22/02/2025 09:00;Luciana Rocha;Marketing;Acesso ao sistema;Solicitação de instalação do Office;Alta;Resolvido;Gabriel;23/02/2025 18:00
+HD-881;30/11/2024 15:04;João Mendes;Comercial;Backup;Troca de senha solicitada;Crítica;Em andamento;Gabriel;
+HD-882;27/02/2025 14:58;João Mendes;Comercial;Solicitação de software;Troca de senha solicitada;Média;Fechado;Gabriel;01/03/2025 08:45
+HD-883;21/03/2025 16:40;Ana Paula;Logística;Solicitação de software;Solicitação de instalação do Office;Alta;Resolvido;Gabriel;23/03/2025 08:56
+HD-884;01/04/2025 13:46;João Mendes;Jurídico;Problemas de rede;Usuário não consegue acessar o sistema;Crítica;Fechado;Guilherme;04/04/2025 08:35
+HD-885;23/11/2024 16:52;João Mendes;Comercial;Troca de senha;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-886;28/03/2025 13:43;Juliana Castro;Logística;Falha em equipamento;Conexão com servidor instável;Crítica;Pendente;Gabriel;
+HD-887;01/01/2025 15:55;Luciana Rocha;Logística;Solicitação de software;Troca de senha solicitada;Baixa;Pendente;Gabriel;
+HD-888;12/03/2025 12:29;Juliana Castro;Operações;Acesso ao sistema;Problema com impressão;Média;Fechado;Gabriel;14/03/2025 08:29
+HD-889;23/03/2025 16:33;Mariana Dias;Comercial;Backup;Erro ao abrir planilha;Média;Aberto;Gabriel;
+HD-890;11/12/2024 09:09;Mariana Dias;Marketing;Troca de senha;Problema com impressão;Baixa;Resolvido;Gabriel;13/12/2024 14:09
+HD-891;07/02/2025 16:39;Luciana Rocha;Operações;Acesso ao sistema;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-892;24/02/2025 09:01;Juliana Castro;RH;Problemas de rede;Erro ao abrir planilha;Alta;Fechado;Gabriel;25/02/2025 18:01
+HD-893;11/12/2024 16:55;Mariana Dias;Marketing;Acesso ao sistema;Erro ao abrir planilha;Alta;Aberto;Gabriel;
+HD-894;07/02/2025 10:11;Luciana Rocha;Logística;Backup;Problema com impressão;Alta;Aberto;Gabriel;
+HD-895;05/12/2024 13:35;Juliana Castro;Operações;Erro em sistema;Troca de senha solicitada;Crítica;Fechado;Gabriel;07/12/2024 11:35
+HD-896;27/02/2025 08:44;Ana Paula;Jurídico;Erro em sistema;Conexão com servidor instável;Alta;Resolvido;Gabriel;27/02/2025 18:25
+HD-897;29/03/2025 11:38;Mariana Dias;TI;Troca de senha;Erro ao abrir planilha;Média;Fechado;Gabriel;31/03/2025 08:38
+HD-898;12/03/2025 08:06;Bruno Alves;Operações;Backup;Problema com impressão;Média;Fechado;Gabriel;13/03/2025 13:06
+HD-899;03/02/2025 14:49;João Mendes;Jurídico;Troca de senha;Solicitação de instalação do Office;Média;Aberto;Guilherme;
+HD-900;17/11/2024 09:46;Carlos Silva;Jurídico;Solicitação de software;Troca de senha solicitada;Baixa;Pendente;Guilherme;
+HD-901;26/11/2024 08:56;Carlos Silva;Financeiro;Backup;Usuário não consegue acessar o sistema;Alta;Aberto;Paulo;
+HD-902;22/11/2024 16:40;João Mendes;Marketing;Troca de senha;Troca de senha solicitada;Baixa;Resolvido;Gabriel;23/11/2024 13:40
+HD-903;23/01/2025 16:16;Bruno Alves;TI;Solicitação de software;Problema com impressão;Média;Aberto;Gabriel;
+HD-904;13/10/2024 12:55;Luciana Rocha;Operações;Backup;Conexão com servidor instável;Alta;Aberto;Gabriel;
+HD-905;05/04/2025 08:48;Ana Paula;RH;Erro em sistema;Conexão com servidor instável;Baixa;Em andamento;Guilherme;
+HD-906;02/02/2025 10:17;João Mendes;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Média;Em andamento;Guilherme;
+HD-907;30/12/2024 15:26;Juliana Castro;Financeiro;Falha em equipamento;Usuário não consegue acessar o sistema;Crítica;Pendente;Guilherme;
+HD-908;20/10/2024 08:31;Fernando Lima;Marketing;Backup;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-909;05/12/2024 10:51;Fernando Lima;Financeiro;Solicitação de software;Troca de senha solicitada;Média;Fechado;Guilherme;07/12/2024 08:26
+HD-910;30/11/2024 11:58;João Mendes;TI;Acesso ao sistema;Solicitação de instalação do Office;Alta;Aberto;Guilherme;
+HD-911;03/12/2024 10:39;João Mendes;RH;Troca de senha;Solicitação de instalação do Office;Média;Resolvido;Gabriel;03/12/2024 12:39
+HD-912;12/10/2024 16:18;Ana Paula;TI;Troca de senha;Usuário não consegue acessar o sistema;Alta;Resolvido;Gabriel;14/10/2024 18:03
+HD-913;06/11/2024 14:48;João Mendes;Operações;Erro em sistema;Erro ao abrir planilha;Crítica;Resolvido;Gabriel;06/11/2024 18:48
+HD-914;02/12/2024 13:30;Mariana Dias;Comercial;Falha em equipamento;Erro ao abrir planilha;Baixa;Aberto;Paulo;
+HD-915;30/01/2025 16:02;Bruno Alves;RH;Troca de senha;Erro ao abrir planilha;Média;Fechado;Guilherme;30/01/2025 18:31
+HD-916;31/10/2024 15:35;Fernando Lima;Jurídico;Erro em sistema;Problema com impressão;Alta;Aberto;Gabriel;
+HD-917;29/11/2024 16:15;Bruno Alves;Comercial;Erro em sistema;Problema com impressão;Crítica;Resolvido;Gabriel;02/12/2024 08:35
+HD-918;02/03/2025 14:59;Bruno Alves;Operações;Solicitação de software;Problema com impressão;Alta;Aberto;Gabriel;
+HD-919;27/11/2024 16:27;Carlos Silva;RH;Troca de senha;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-920;28/01/2025 13:28;Juliana Castro;TI;Solicitação de software;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-921;15/01/2025 14:42;Fernando Lima;RH;Backup;Problema com impressão;Crítica;Em andamento;Guilherme;
+HD-922;24/03/2025 15:32;Carlos Silva;Jurídico;Backup;Solicitação de instalação do Office;Média;Fechado;Gabriel;26/03/2025 18:19
+HD-923;07/03/2025 08:49;Juliana Castro;RH;Backup;Troca de senha solicitada;Média;Pendente;Guilherme;
+HD-924;15/01/2025 13:27;Carlos Silva;Financeiro;Erro em sistema;Solicitação de instalação do Office;Média;Aberto;Paulo;
+HD-925;28/12/2024 15:05;Carlos Silva;Operações;Troca de senha;Usuário não consegue acessar o sistema;Média;Pendente;Guilherme;
+HD-926;12/10/2024 16:42;Ana Paula;Jurídico;Falha em equipamento;Problema com impressão;Média;Pendente;Gabriel;
+HD-927;28/11/2024 15:53;Mariana Dias;Comercial;Problemas de rede;Conexão com servidor instável;Alta;Resolvido;Guilherme;29/11/2024 14:53
+HD-928;13/03/2025 09:28;Juliana Castro;Logística;Falha em equipamento;Erro ao abrir planilha;Crítica;Resolvido;Guilherme;15/03/2025 08:57
+HD-929;20/12/2024 08:18;João Mendes;Comercial;Falha em equipamento;Usuário não consegue acessar o sistema;Alta;Aberto;Guilherme;
+HD-930;31/03/2025 10:22;João Mendes;Comercial;Falha em equipamento;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-931;28/02/2025 13:57;Ana Paula;Financeiro;Troca de senha;Conexão com servidor instável;Baixa;Pendente;Guilherme;
+HD-932;22/03/2025 16:44;Mariana Dias;Jurídico;Backup;Erro ao abrir planilha;Alta;Pendente;Gabriel;
+HD-933;05/11/2024 08:59;Mariana Dias;Logística;Backup;Troca de senha solicitada;Média;Fechado;Guilherme;07/11/2024 14:59
+HD-934;30/11/2024 15:10;Fernando Lima;Logística;Problemas de rede;Problema com impressão;Alta;Fechado;Guilherme;02/12/2024 18:21
+HD-935;07/11/2024 16:09;João Mendes;Jurídico;Acesso ao sistema;Conexão com servidor instável;Alta;Em andamento;Gabriel;
+HD-936;06/12/2024 14:06;João Mendes;Logística;Troca de senha;Troca de senha solicitada;Alta;Resolvido;Gabriel;07/12/2024 08:28
+HD-937;07/01/2025 14:10;Mariana Dias;Comercial;Erro em sistema;Solicitação de instalação do Office;Alta;Aberto;Gabriel;
+HD-938;16/12/2024 10:05;Luciana Rocha;Logística;Problemas de rede;Problema com impressão;Alta;Fechado;Gabriel;18/12/2024 12:05
+HD-939;07/03/2025 13:51;Carlos Silva;TI;Acesso ao sistema;Solicitação de instalação do Office;Baixa;Em andamento;Paulo;
+HD-940;02/01/2025 09:40;Bruno Alves;Jurídico;Troca de senha;Troca de senha solicitada;Baixa;Em andamento;Gabriel;
+HD-941;19/11/2024 14:02;Ana Paula;Marketing;Erro em sistema;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-942;09/03/2025 08:48;Fernando Lima;RH;Falha em equipamento;Troca de senha solicitada;Baixa;Resolvido;Gabriel;09/03/2025 16:48
+HD-943;23/02/2025 14:28;Juliana Castro;Jurídico;Problemas de rede;Problema com impressão;Alta;Pendente;Guilherme;
+HD-944;05/12/2024 09:47;Bruno Alves;Logística;Erro em sistema;Conexão com servidor instável;Média;Resolvido;Paulo;06/12/2024 18:41
+HD-945;29/10/2024 13:59;Juliana Castro;Financeiro;Falha em equipamento;Troca de senha solicitada;Baixa;Resolvido;Gabriel;30/10/2024 18:01
+HD-946;13/12/2024 12:22;Bruno Alves;TI;Problemas de rede;Erro ao abrir planilha;Baixa;Fechado;Gabriel;14/12/2024 08:56
+HD-947;26/03/2025 08:07;Bruno Alves;Operações;Erro em sistema;Erro ao abrir planilha;Crítica;Pendente;Guilherme;
+HD-948;12/10/2024 13:22;Ana Paula;Logística;Falha em equipamento;Solicitação de instalação do Office;Média;Em andamento;Guilherme;
+HD-949;17/10/2024 16:50;Fernando Lima;Marketing;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Pendente;Guilherme;
+HD-950;25/03/2025 14:22;Juliana Castro;Jurídico;Backup;Conexão com servidor instável;Média;Fechado;Gabriel;26/03/2025 18:22
+HD-951;02/01/2025 11:51;Luciana Rocha;Jurídico;Solicitação de software;Troca de senha solicitada;Baixa;Pendente;Gabriel;
+HD-952;15/03/2025 11:44;Fernando Lima;RH;Backup;Conexão com servidor instável;Crítica;Em andamento;Gabriel;
+HD-953;08/12/2024 11:02;Luciana Rocha;RH;Troca de senha;Conexão com servidor instável;Crítica;Aberto;Paulo;
+HD-954;15/01/2025 13:00;Bruno Alves;Jurídico;Falha em equipamento;Solicitação de instalação do Office;Média;Fechado;Guilherme;18/01/2025 09:00
+HD-955;23/12/2024 16:58;Carlos Silva;RH;Backup;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-956;27/11/2024 16:50;Luciana Rocha;RH;Solicitação de software;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-957;05/02/2025 13:47;Ana Paula;Operações;Solicitação de software;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-958;04/12/2024 14:28;João Mendes;Logística;Falha em equipamento;Usuário não consegue acessar o sistema;Baixa;Fechado;Guilherme;04/12/2024 16:28
+HD-959;25/10/2024 12:49;Ana Paula;Operações;Erro em sistema;Solicitação de instalação do Office;Média;Aberto;Gabriel;
+HD-960;11/11/2024 16:11;Juliana Castro;Jurídico;Erro em sistema;Solicitação de instalação do Office;Média;Fechado;Paulo;13/11/2024 13:11
+HD-961;31/12/2024 14:28;Bruno Alves;TI;Falha em equipamento;Problema com impressão;Média;Em andamento;Gabriel;
+HD-962;15/10/2024 13:12;Carlos Silva;TI;Falha em equipamento;Usuário não consegue acessar o sistema;Crítica;Fechado;Gabriel;16/10/2024 18:12
+HD-963;20/12/2024 08:48;Ana Paula;Financeiro;Troca de senha;Erro ao abrir planilha;Crítica;Em andamento;Paulo;
+HD-964;09/01/2025 13:17;Carlos Silva;Financeiro;Backup;Troca de senha solicitada;Crítica;Resolvido;Gabriel;10/01/2025 13:17
+HD-965;01/12/2024 08:29;João Mendes;RH;Acesso ao sistema;Solicitação de instalação do Office;Média;Resolvido;Gabriel;03/12/2024 08:47
+HD-966;19/11/2024 12:20;Mariana Dias;Operações;Acesso ao sistema;Conexão com servidor instável;Crítica;Resolvido;Gabriel;20/11/2024 08:18
+HD-967;27/12/2024 15:43;Bruno Alves;Marketing;Backup;Erro ao abrir planilha;Crítica;Em andamento;Paulo;
+HD-968;11/03/2025 10:31;Luciana Rocha;Comercial;Falha em equipamento;Usuário não consegue acessar o sistema;Alta;Em andamento;Gabriel;
+HD-969;30/12/2024 08:01;Juliana Castro;Comercial;Erro em sistema;Conexão com servidor instável;Crítica;Resolvido;Gabriel;31/12/2024 18:07
+HD-970;01/04/2025 13:59;Bruno Alves;Comercial;Troca de senha;Solicitação de instalação do Office;Crítica;Aberto;Gabriel;
+HD-971;21/01/2025 14:15;Ana Paula;Marketing;Erro em sistema;Erro ao abrir planilha;Baixa;Fechado;Guilherme;23/01/2025 18:47
+HD-972;23/02/2025 10:00;Bruno Alves;Operações;Troca de senha;Problema com impressão;Baixa;Resolvido;Guilherme;24/02/2025 18:58
+HD-973;27/11/2024 08:28;Ana Paula;Operações;Falha em equipamento;Troca de senha solicitada;Média;Fechado;Gabriel;29/11/2024 18:49
+HD-974;21/11/2024 13:16;Bruno Alves;Financeiro;Solicitação de software;Problema com impressão;Crítica;Resolvido;Gabriel;22/11/2024 08:44
+HD-975;01/04/2025 11:24;Mariana Dias;RH;Falha em equipamento;Solicitação de instalação do Office;Média;Resolvido;Gabriel;03/04/2025 15:24
+HD-976;07/03/2025 13:11;Ana Paula;TI;Falha em equipamento;Conexão com servidor instável;Média;Em andamento;Gabriel;
+HD-977;03/12/2024 11:40;Juliana Castro;Operações;Acesso ao sistema;Problema com impressão;Média;Em andamento;Gabriel;
+HD-978;26/10/2024 15:28;Carlos Silva;Jurídico;Backup;Usuário não consegue acessar o sistema;Alta;Aberto;Gabriel;
+HD-979;17/12/2024 09:26;Ana Paula;Operações;Troca de senha;Conexão com servidor instável;Crítica;Aberto;Paulo;
+HD-980;18/11/2024 12:27;Ana Paula;Financeiro;Problemas de rede;Usuário não consegue acessar o sistema;Crítica;Pendente;Gabriel;
+HD-981;03/02/2025 09:36;Fernando Lima;TI;Problemas de rede;Conexão com servidor instável;Alta;Pendente;Gabriel;
+HD-982;24/12/2024 11:51;Juliana Castro;RH;Backup;Solicitação de instalação do Office;Alta;Resolvido;Guilherme;27/12/2024 10:51
+HD-983;01/03/2025 08:47;Carlos Silva;Logística;Falha em equipamento;Troca de senha solicitada;Média;Resolvido;Gabriel;03/03/2025 08:57
+HD-984;04/01/2025 13:54;Fernando Lima;Operações;Acesso ao sistema;Troca de senha solicitada;Crítica;Fechado;Gabriel;06/01/2025 18:54
+HD-985;09/03/2025 16:15;Luciana Rocha;Comercial;Backup;Usuário não consegue acessar o sistema;Crítica;Pendente;Gabriel;
+HD-986;11/10/2024 13:50;Carlos Silva;Operações;Falha em equipamento;Troca de senha solicitada;Crítica;Aberto;Gabriel;
+HD-987;11/03/2025 10:41;Ana Paula;Operações;Troca de senha;Usuário não consegue acessar o sistema;Alta;Aberto;Guilherme;
+HD-988;30/12/2024 15:01;Fernando Lima;Financeiro;Erro em sistema;Usuário não consegue acessar o sistema;Baixa;Em andamento;Guilherme;
+HD-989;08/02/2025 11:53;Carlos Silva;TI;Falha em equipamento;Problema com impressão;Baixa;Fechado;Gabriel;09/02/2025 18:39
+HD-990;10/02/2025 11:48;João Mendes;Logística;Backup;Troca de senha solicitada;Alta;Em andamento;Gabriel;
+HD-991;17/02/2025 11:36;Bruno Alves;Logística;Backup;Solicitação de instalação do Office;Crítica;Resolvido;Guilherme;20/02/2025 08:19
+HD-992;13/01/2025 10:05;Ana Paula;Jurídico;Problemas de rede;Solicitação de instalação do Office;Média;Resolvido;Gabriel;15/01/2025 14:05
+HD-993;20/11/2024 09:23;Carlos Silva;Logística;Backup;Usuário não consegue acessar o sistema;Alta;Aberto;Guilherme;
+HD-994;05/02/2025 15:58;Bruno Alves;Financeiro;Acesso ao sistema;Usuário não consegue acessar o sistema;Alta;Resolvido;Gabriel;07/02/2025 17:58
+HD-995;08/03/2025 09:01;João Mendes;Financeiro;Solicitação de software;Solicitação de instalação do Office;Alta;Pendente;Guilherme;
+HD-996;17/02/2025 16:04;João Mendes;Logística;Acesso ao sistema;Conexão com servidor instável;Baixa;Pendente;Gabriel;
+HD-997;31/01/2025 08:51;Carlos Silva;Operações;Solicitação de software;Conexão com servidor instável;Baixa;Em andamento;Gabriel;
+HD-998;27/12/2024 09:22;Bruno Alves;Logística;Acesso ao sistema;Problema com impressão;Baixa;Em andamento;Gabriel;
+HD-999;05/11/2024 11:00;Carlos Silva;Jurídico;Falha em equipamento;Solicitação de instalação do Office;Crítica;Em andamento;Gabriel;
+HD-1000;01/03/2025 08:57;Carlos Silva;Jurídico;Falha em equipamento;Problema com impressão;Crítica;Em andamento;Gabriel;
