@@ -41,6 +41,6 @@ Abaixo está uma descrição dos principais arquivos visuais presentes nesta pas
 
 ## Contexto
 
-Para uma explicação detalhada de cada etapa e como estas imagens/GIFs se encaixam no processo completo de desenvolvimento do AppSheet, consulte o **[README principal da implementação AppSheet](google-appsheet/README.md)** (localizado na pasta pai `/google-appsheet/`).
+Para uma explicação detalhada de cada etapa e como estas imagens/GIFs se encaixam no processo completo de desenvolvimento do AppSheet, consulte o **[README principal da implementação AppSheet](https://github.com/CondeGabriel-1993/tech-support-dashboard-multiplatform/blob/main/google-appsheet/README.md)** (localizado na pasta pai `/google-appsheet/`).
 
 Estes arquivos visuais servem como evidência e ilustração do processo de configuração e do resultado final do aplicativo.
