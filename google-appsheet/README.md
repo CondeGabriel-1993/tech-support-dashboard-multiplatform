@@ -145,4 +145,5 @@ Estas ações aparecem como botões na visão de detalhes (e/ou como ícones na 
 ## 9. Screenshots Relevantes
 
 
-[Sistema Funcional](google-appsheet/screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)
+![Sistema Funcional](google-appsheet/screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)
+![Looker Studio Demo GIF](looker-studio/screenshots/Looker_HelpDesk_APP_Desktop_Web.gif)
