@@ -26,13 +26,25 @@ O processo começou acessando [appsheet.com](https://www.appsheet.com/) e fazend
 4.  **Seleção da Planilha:** A planilha `chamados_helpdesk`, contendo os dados fictícios previamente importados do CSV, foi selecionada. A aba `Chamados` foi escolhida como a tabela principal.
 5.  **Geração Automática:** O AppSheet analisou a estrutura da planilha e gerou automaticamente as visualizações (Views) iniciais (Lista, Detalhes, Formulário) e tentou inferir os tipos de dados das colunas.
 
-[Novo Aplicativo](google-appsheet/screenshots/HelpdeskAPP_Inicio1.png)
 
-[Selecionando Tipo de Fonte de Dados](google-appsheet/screenshots/HelpdeskAPP_inicio2.png)
+**Novo Aplicativo**  
+   ![Novo Aplicativo:](screenshots/HelpdeskAPP_Inicio1.png)  
 
-[Selecionando a Planilha de Fonte de Dados](google-appsheet/screenshots/HelpdeskAPP_inicio3.png)
 
-[Geração Automática do Protótipo Baseado na Planilha](google-appsheet/screenshots/HelpdeskAPP_inicio4.png)
+
+**Selecionando Tipo de Fonte de Dados**  
+   ![Selecionando Tipo de Fonte de Dados:](screenshots/HelpdeskAPP_inicio2.png)  
+
+
+
+**Selecionando a Planilha de Fonte de Dados**  
+   ![Selecionando a Planilha de Fonte de Dados:](screenshots/HelpdeskAPP_inicio3.png)  
+
+
+
+**Geração Automática do Protótipo Baseado na Planilha**  
+   ![Geração Automática do Protótipo Baseado na Planilha:](screenshots/HelpdeskAPP_inicio4.png)  
+
 
 
 
@@ -44,9 +56,13 @@ Após a conexão inicial, foi crucial revisar e ajustar as configurações das c
 *   **Propriedades Chave:**
     *   `SHOW?`: Desmarcado para colunas irrelevantes para o usuário final.
     *   `EDITABLE?`: Desmarcado para colunas que não deveriam ser editadas manualmente (ex: `IDChamado`, `DataAbertura` após ajuste do valor inicial).
-    *   `REQUIRE?`: Marcado para campos obrigatórios no formulário de criação.
+    *   `REQUIRE?`: Marcado para campos obrigatórios no formulário de criação.  
 
-[Tela de configuração das colunas (`Data` -> `Columns`) mostrando tipos e propriedades após ajustes.](google-appsheet/screenshots/HelpdeskAPP_Colunas.png)
+
+
+
+**Tela de configuração das colunas (`Data` -> `Columns`) mostrando tipos e propriedades após ajustes**  
+![Tela de configuração das colunas (`Data` -> `Columns`) mostrando tipos e propriedades após ajustes.](screenshots/HelpdeskAPP_Colunas.png)  
 
 
 ## 3. Lógica de Negócio e Automação (Valores Iniciais e ID Automático)
@@ -67,9 +83,11 @@ Para automatizar partes do processo, foram configurados valores iniciais (`INITI
             ```
     *   **Configurações Adicionais:** `EDITABLE?` foi desmarcado para `IDChamado` para evitar edição manual.
 
-[Tela de configuração do `INITIAL VALUE` para `DataAbertura`](google-appsheet/screenshots/HelpdeskAPP_formula_Initial_Dataabertura.png)
+**Tela de configuração do `INITIAL VALUE` para `DataAbertura`**
+![Tela de configuração do `INITIAL VALUE` para `DataAbertura`](screenshots/HelpdeskAPP_formula_Initial_Dataabertura.png)  
 
-[Tela de configuração do `INITIAL VALUE` para `IDChamado`](google-appsheet/screenshots/HelpdeskAPP_formula_Initial_IDchamado.png)
+**Tela de configuração do `INITIAL VALUE` para `IDChamado`**
+![Tela de configuração do `INITIAL VALUE` para `IDChamado`](screenshots/HelpdeskAPP_formula_Initial_IDchamado.png)  
 
 
 
@@ -86,8 +104,10 @@ As visualizações (Views) geradas automaticamente foram ajustadas na seção `U
     *   **`Column order`:** Ajustada para apresentar os campos em ordem lógica de preenchimento. Campos não editáveis na criação (como `IDChamado`, `DataFechamento`) foram removidos desta View.
 *   **Visão de Detalhes (`Chamados_Detail`):**
     *   **`Column order`:** Organizada para mostrar todas as informações relevantes do chamado selecionado.
-
-[Tela de configuração das Views do sistema](google-appsheet/screenshots/HelpdeskAPP_Config_Telas.gif)
+ 
+       
+**Tela de configuração das Views do sistema**
+![Tela de configuração das Views do sistema](screenshots/HelpdeskAPP_Config_Telas.gif)
 
 
 
@@ -108,9 +128,10 @@ Para agilizar a atualização de status, foram criadas Ações na seção `Behav
     *   **`Behavior (Condition)`:** `AND( [Status] <> "Resolvido", [Status] <> "Fechado" )` (Não aparece para chamados já finalizados)
     *   **`Appearance`:** Ícone de "check".
 
-Estas ações aparecem como botões na visão de detalhes (e/ou como ícones na lista), permitindo atualizar o chamado com um clique.
+Estas ações aparecem como botões na visão de detalhes (e/ou como ícones na lista), permitindo atualizar o chamado com um clique.  
 
-[Tela de configuração das Actions do sistema](google-appsheet/screenshots/HelpdeskAPP_Config_Actions.gif)
+**Tela de configuração das Actions do sistema**
+![Tela de configuração das Actions do sistema](screenshots/HelpdeskAPP_Config_Actions.gif)  
 
 
 ## 6. Desafios e Soluções
@@ -126,9 +147,10 @@ Estas ações aparecem como botões na visão de detalhes (e/ou como ícones na 
 *   O AppSheet salva automaticamente as alterações.
 *   O aplicativo pode ser compartilhado através de links gerados na seção `Users` ou `Share` (dependendo da versão da interface).
 *   Foi utilizado o **Browser Link** para acesso direto.
-*   **Importante:** No plano gratuito, o número de usuários "ativos" do app pode ser limitado (geralmente o criador + poucos usuários de teste). Para um portfólio, o link direto é funcional para demonstração individual.
+*   **Importante:** No plano gratuito, o número de usuários "ativos" do app pode ser limitado (geralmente o criador + poucos usuários de teste). Para um portfólio, o link direto é funcional para demonstração individual.  
 
-[Tela de compartilhamento do sistema](google-appsheet/screenshots/HelpdeskAPP_Compartilhar_links.png)
+**Tela de compartilhamento do sistema**  
+![Tela de compartilhamento do sistema](screenshots/HelpdeskAPP_Compartilhar_links.png)  
 
 
 
@@ -142,8 +164,7 @@ Estas ações aparecem como botões na visão de detalhes (e/ou como ícones na 
 
 *(Para este projeto de demonstração, o plano gratuito foi perfeitamente adequado.)*
 
-## 9. Screenshots Relevantes
+## 9. Screenshots Relevantes  
 
-
-![Sistema Funcional](google-appsheet/screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)
-![Looker Studio Demo GIF](looker-studio/screenshots/Looker_HelpDesk_APP_Desktop_Web.gif)
+**Demonstração do Fluxo Completo no App**  
+![Sistema Funcional](screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)
