@@ -167,4 +167,4 @@ Estas ações aparecem como botões na visão de detalhes (e/ou como ícones na 
 ## 9. Screenshots Relevantes  
 
 **Demonstração do Fluxo Completo no App**  
-![Sistema Funcional](screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)
+![Sistema Funcional](screenshots/APPSheet_HelpDesk_APP_Desktop_Web.gif)  
