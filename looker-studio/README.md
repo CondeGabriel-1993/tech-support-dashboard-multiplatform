@@ -27,8 +27,11 @@ Este documento detalha o processo de criação do dashboard analítico interativ
 5.  **Seleção:** A planilha `chamados_helpdesk` e a aba `Chamados` foram selecionadas como fonte de dados principal. As opções "Usar primeira linha como cabeçalho" foram mantidas.
 6.  **Adição:** A fonte de dados foi adicionada ao relatório.  
 
+Tela Inicial - `+ Criar` -> `Relatório`.  
+![Tela Inicial - `+ Criar` -> `Relatório`](screenshots/looker_inicio1.png)  
+
 Tela de seleção da fonte de dados Google Sheets no Looker Studio.  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Tela de seleção da fonte de dados Google Sheets no Looker Studio](screenshots/looker_inicio2.png)  
 
 
 
@@ -36,24 +39,27 @@ Tela de seleção da fonte de dados Google Sheets no Looker Studio.
 
 Para organizar o conteúdo e integrar o AppSheet, uma estrutura de múltiplas páginas foi adotada:
 
-*   **Criação:** Novas páginas foram adicionadas usando a opção `Página` -> `Nova página` ou clicando no gerenciador de páginas na lateral (se visível).
+*   **Criação:** Novas páginas foram adicionadas clicando na aba `Página` -> `Nova página` no menu superior.
 *   **Renomeação:** Cada página foi renomeada para refletir seu conteúdo (ex: "Sistema", "Dashboard", "Tabela de Tickets") clicando no nome da página.  
 
+Menu Superior - Aba `Página` -> `Nova página`.  
+![Menu Superior - Aba `Página` -> `Nova página`](screenshots/looker_gerenciador_pag1.png)  
+  
+  
 Gerenciador de páginas mostrando as 3 páginas criadas.  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
-
+![Gerenciador de páginas mostrando as 3 páginas criadas](screenshots/looker_gerenciador_pag2.png)  
 
 ## 3. Página 1: Incorporação do AppSheet
 
 O diferencial desta implementação foi incorporar o próprio aplicativo AppSheet funcional dentro do relatório Looker Studio:
 
-1.  **Componente:** Na primeira página ("Sistema"), foi utilizado o componente `Incorporar URL` (URL embed), acessível pelo menu `Inserir` (Insert) -> `Incorporar URL`.
+1.  **Componente:** Na primeira página ("Sistema"), foi utilizado o componente `URL incorporado` (URL embed), acessível pelo menu superior.
 2.  **Configuração:** No campo `URL externa` (External URL) do componente, foi colado o **link de acesso via navegador (Browser Link)** do aplicativo AppSheet previamente criado.
-    *   Link utilizado: `[COLAR O LINK APPSHEET AQUI]`
+    *   Link utilizado: `https://www.appsheet.com/start/1817d2fc-aa88-4a06-9089-b5bafb7664b3`
 3.  **Resultado:** Permite que usuários visualizem e interajam com o aplicativo AppSheet (registrar, editar chamados) diretamente dentro do ambiente do Looker Studio.  
 
 Configuração do componente 'Incorporar URL' com o link do AppSheet.  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Configuração do componente 'Incorporar URL' com o link do AppSheet](screenshots/looker_url_incorporado.png)  
 
 
 ## 4. Página 2: Construção do Dashboard Principal (Gráficos e KPIs)
@@ -61,17 +67,17 @@ Configuração do componente 'Incorporar URL' com o link do AppSheet.
 A segunda página ("Dashboard") concentra as análises visuais principais, replicando e adaptando o que foi feito no Power BI:
 
 *   **Gráficos Adicionados:** Utilizando o menu `Adicionar um gráfico`, foram incluídos:
-    *   **Pizza/Rosca (Tickets por Status):** `Dimensão`: `Status`, `Métrica`: `Record Count` ou `Contagem distinta` de `IDChamado`.
-    *   **Rosca/Barras (Tickets por Técnico):** `Dimensão`: `TecnicoResponsavel`, `Métrica`: `Record Count` / `Contagem distinta` ID. Ordenado por métrica.
-    *   **Barras (Tickets por Categoria):** `Dimensão`: `Categoria`, `Métrica`: `Record Count` / `Contagem distinta` ID. Ordenado por métrica.
-    *   **Barras (Tickets por Departamento):** `Dimensão`: `Departamento`, `Métrica`: `Record Count` / `Contagem distinta` ID. Ordenado por métrica.
-    *   **Gráfico de Linha/Área (Tickets por Mês):** `Dimensão`: `DataAbertura` (agrupado por Ano/Mês), `Métrica`: `Record Count` / `Contagem distinta` ID.
-*   **KPIs (Placares):** Utilizando o gráfico `Placar` (Scorecard):
-    *   **Total de Tickets:** `Métrica`: `Record Count` ou `Contagem distinta` ID.
-    *   **Tickets em Aberto:** `Métrica`: `Record Count` / `Contagem distinta` ID. **Filtro aplicado** (ver seção 6).  
+    *   **Pizza (Tickets por Status):** `Dimensão`: `Status`, `Métrica`: `Contagem distinta` de `IDChamado`.
+    *   **Rosca (Tickets por Técnico):** `Dimensão`: `TecnicoResponsavel`, `Métrica`: `Contagem distinta` de `IDChamado`.
+    *   **Barras (Tickets por Categoria):** `Dimensão`: `Categoria`, `Métrica`: `Contagem distinta` de `IDChamado`.
+    *   **Colunas (Tickets por Departamento):** `Dimensão`: `Departamento`, `Métrica`: `Contagem distinta` de `IDChamado`.
+    *   **Gráfico de Linhas (Tickets por Mês/Ano):** `Dimensão`: `DataAbertura` (agrupado por Ano/Mês), `Métrica`: `Contagem distinta` de `IDChamado`.
+*   **KPIs (Placares):** Utilizando o gráfico `Visão Geral` (Scorecard/Placar):
+    *   **Total de Tickets:** `Métrica`: `Contagem distinta` de `IDChamado`.
+    *   **Tickets em Aberto:** `Métrica`: `Contagem distinta` de `IDChamado`. **Filtro aplicado** (ver seção 6).  
 
 Visão geral da página "Dashboard" com os gráficos e KPIs configurados.  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Visão geral da página "Dashboard"](screenshots/looker_dashboard_demo.png)  
 
 
 ## 5. Página 3: Tabela Detalhada de Chamados
@@ -82,34 +88,34 @@ Para permitir consulta aos dados brutos, a terceira página ("Tabela de Tickets"
 *   **Configuração:**
     *   **`Dimensão`:** Foram adicionadas todas as colunas relevantes para visualização (`IDChamado`, `DataAbertura`, `Solicitante`, `Status`, `DescricaoCurta`, etc.).
     *   **`Métrica`:** Nenhuma métrica agregada é necessária aqui, apenas as dimensões.
-    *   **`Linhas por página`:** Ajustado para um número razoável (ex: 25 ou 50).
+    *   **`Linhas por página`:** Ajustado para mostrar todas as linhas.
     *   **`Classificação`:** Permitido ao usuário ordenar clicando nos cabeçalhos ou definido um padrão (ex: `IDChamado` decrescente).  
 
 Visão da página "Tabela de Tickets" mostrando a tabela configurada.  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Visão da página "Tabela de Tickets" mostrando a tabela configurada](screenshots/looker_pagina_tabela.png)  
 
 
 ## 6. Configuração de Filtros (Ex: KPI "Tickets em Aberto")
 
 O KPI "Tickets em Aberto" exigiu um filtro específico para contar apenas os chamados não finalizados:
 
-1.  **Seleção:** O gráfico `Placar` correspondente foi selecionado.
+1.  **Seleção:** O gráfico `Visão Geral` correspondente foi selecionado.
 2.  **Adição de Filtro:** No painel `Gráfico` -> `Filtro`, clicou-se em `+ Adicionar um filtro`.
 3.  **Configuração do Filtro (`Filtro Status Aberto`):**
     *   `Incluir`
     *   Campo: `Status`
     *   Condição: `Está em (lista)` (In)
-    *   Valores: `"Aberto"`, `"Em Andamento"`, `"Aguardando Terceiro"`, `"Aguardando Usuário"` *(Ajuste conforme seus status exatos)*.
+    *   Valores: `"Aberto"`, `"Em Andamento"`, `"Pendente"`.
 4.  **Aplicação:** O filtro foi salvo e aplicado exclusivamente a este placar.  
 
 Janela de configuração do filtro "Filtro Status Aberto".  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Janela de configuração do filtro "Filtro Status Aberto"](screenshots/looker_config_filtro_stsaberto.png)  
 
 
 ## 7. Estilo e Layout
 
 *   Um **tema escuro** pré-definido foi aplicado através do painel `Tema e layout` para dar uma aparência consistente ao relatório.
-*   Títulos foram adicionados aos gráficos e páginas usando caixas de texto (`Inserir` -> `Texto`) ou as opções de formatação de cada gráfico na aba `Estilo`.
+*   Títulos foram adicionados aos gráficos utilizando as opções de formatação de cada gráfico na aba `Estilo`.
 *   Os elementos foram redimensionados e posicionados para criar um layout organizado em cada página.  
 
 ## 8. Desafios e Soluções
@@ -131,7 +137,7 @@ O compartilhamento do relatório Looker Studio foi configurado para acesso públ
 4.  **Vantagem:** Este método permite visualização interativa do dashboard por qualquer pessoa com o link, sem exigir login e sem as restrições severas do Power BI gratuito.  
 
 Janela de configuração de compartilhamento do Looker Studio.  
-![Descrição do Screenshot 1](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Janela de configuração de compartilhamento do Looker Studio](screenshots/looker_tela_compartilhamento.png)  
 
 
 ## 10. Limitações da Versão Gratuita
@@ -145,5 +151,5 @@ Janela de configuração de compartilhamento do Looker Studio.
 ## 11. Screenshots Relevantes  
 
 Demonstração do Dashboard e suas funcionalidades  
-![Demonstração do Dashboard e suas funcionalidades](screenshots/nome_do_seu_screenshot_looker1.png)  
+![Demonstração do Dashboard e suas funcionalidades](screenshots/Looker_HelpDesk_APP_Desktop_Web.gif)  
 
