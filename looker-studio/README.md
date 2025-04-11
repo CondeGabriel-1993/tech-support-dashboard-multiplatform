@@ -153,3 +153,4 @@ Janela de configuração de compartilhamento do Looker Studio.
 Demonstração do Dashboard e suas funcionalidades  
 ![Demonstração do Dashboard e suas funcionalidades](screenshots/Looker_HelpDesk_APP_Desktop_Web.gif)  
 
+
